@@ -6,7 +6,7 @@ output:
     vertical_layout: fill
     theme: paper
     social: [ "twitter", "facebook", "menu" ]
-    source_code: "https://github.com/user/repo"
+    source_code: "https://github.com/retowyss/dataisbeautiful-2018-11"
 ---
 
 ```{r setup, include=FALSE}
