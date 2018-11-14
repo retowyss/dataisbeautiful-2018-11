@@ -1,0 +1,50 @@
+---
+title: "NASA Astronauts"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    theme: paper
+    social: [ "twitter", "facebook", "menu" ]
+    source_code: "https://github.com/user/repo"
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(readr)
+library(visNetwork)
+library(plotly)
+library(tidyverse)
+
+edges <- read_csv("data/edges.csv")
+nodes <- read_csv("data/nodes.csv")
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Astonaut Mission Network
+
+```{r}
+visNetwork(nodes, edges, height = "100%", width = "100%") %>%
+  visOptions(highlightNearest = TRUE) %>%
+  visIgraphLayout(layout = "layout_in_circle")
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Selection Years
+
+```{r}
+nodes %>% 
+  mutate(group = factor(group, levels = unique(group))) %>% 
+  plot_ly(x = ~ group, color = ~ group, colors = ~ color) 
+```
+
+### Astronauts per Mission
+
+```{r}
+
+```
+
