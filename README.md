@@ -1,6 +1,6 @@
 # Data Is Beautiful - November 2018 - NASA Astronauts 
 
-This is my entry for the [Reddit dataisbeautiful challenge](https://www.reddit.com/r/dataisbeautiful/) November 2018 challenge.
+This is my entry for the [Reddit dataisbeautiful challenge](https://www.reddit.com/r/dataisbeautiful/) November 2018.
 
 My visualization shows how astronauts are connected by missions.
 
