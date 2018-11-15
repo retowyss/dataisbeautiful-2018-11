@@ -86,13 +86,14 @@ nodes <- us %>%
     id = id,
     label = name,
     title = glue::glue("<p><b>{rank} {name}</b></p><p>Flight Hours: {flight_hours}</p><p></p>"),
-    group = cut(selection, breaks = seq(1959, 2009, 10), include.lowest = T, dig.lab = 5),
+    #group = cut(selection, breaks = seq(1959, 2009, 10), include.lowest = T, dig.lab = 5),
+    group = selection,
     value = sqrt(if_else(is.na(flight_hours), 0L, flight_hours))
   )
 
 nodes <- tibble(
   group = unique(nodes$group),
-  color = viridis::viridis_pal()(5)
+  color = viridis::viridis_pal()(length(unique(nodes$group)))
 ) %>% left_join(nodes)
 
 
@@ -117,5 +118,6 @@ edges <- astronaut_missions %>%
 
 write_csv(nodes, "data/nodes.csv")
 write_csv(edges, "data/edges.csv")
+
 
 rmarkdown::render("index.Rmd", output_dir = "docs")

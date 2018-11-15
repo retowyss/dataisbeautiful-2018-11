@@ -2,9 +2,8 @@
 title: "NASA Astronauts"
 output: 
   flexdashboard::flex_dashboard:
-    orientation: columns
-    vertical_layout: fill
-    theme: paper
+    storyboard: true
+    theme: cosmo
     social: [ "twitter", "facebook", "menu" ]
     source_code: "https://github.com/retowyss/dataisbeautiful-2018-11"
 ---
@@ -20,31 +19,43 @@ edges <- read_csv("data/edges.csv")
 nodes <- read_csv("data/nodes.csv")
 ```
 
-Column {data-width=650}
------------------------------------------------------------------------
 
 ### Astonaut Mission Network
 
 ```{r}
 visNetwork(nodes, edges, height = "100%", width = "100%") %>%
-  visOptions(highlightNearest = TRUE) %>%
-  visIgraphLayout(layout = "layout_in_circle")
+  visOptions(highlightNearest = TRUE, autoResize = T) %>%
+  visIgraphLayout(layout = "layout_with_fr") %>% 
+  visInteraction(navigationButtons = TRUE) %>%
+  visOptions(highlightNearest = list(enabled = T, hover = T), 
+             nodesIdSelection = T)
 ```
 
-Column {data-width=350}
------------------------------------------------------------------------
+*** 
 
-### Selection Years
+This is the Astronaut Mission Network. Astronauts are nodes and missions are edges. The color indicates the selection year (lighter is more recent, see the Astronauts by Selection Year tab). The node size is scaled to the cummulative number of flight hours, wheras the thickness of an edge is scaled on the number of common missions. 
+
+
+### Astonaut Mission Network (Circle)
+
+```{r}
+visNetwork(nodes, edges, height = "100%", width = "100%") %>%
+  visOptions(highlightNearest = TRUE, autoResize = T) %>%
+  visIgraphLayout(layout = "layout_in_circle") %>% 
+  visInteraction(navigationButtons = TRUE) %>%
+  visOptions(highlightNearest = list(enabled = T, hover = T), 
+             nodesIdSelection = T)
+```
+
+*** 
+
+Same as the previous tab but arranged in a circle.
+
+### Number of Astonauts Selected by Year
 
 ```{r}
 nodes %>% 
   mutate(group = factor(group, levels = unique(group))) %>% 
-  plot_ly(x = ~ group, color = ~ group, colors = ~ color) 
+  plot_ly(x = ~ group, color = ~ group, colors = ~ color) %>% 
+  layout(showlegend = FALSE, xaxis = list(title = ""))
 ```
-
-### Astronauts per Mission
-
-```{r}
-
-```
-
