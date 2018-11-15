@@ -20,7 +20,7 @@ nodes <- read_csv("data/nodes.csv")
 ```
 
 
-### Astonaut Mission Network
+### Astronaut Mission Network
 
 ```{r}
 visNetwork(nodes, edges, height = "100%", width = "100%") %>%
@@ -36,7 +36,7 @@ visNetwork(nodes, edges, height = "100%", width = "100%") %>%
 This is the Astronaut Mission Network. Astronauts are nodes and missions are edges. The color indicates the selection year (lighter is more recent, see the Astronauts by Selection Year tab). The node size is scaled to the cummulative number of flight hours, wheras the thickness of an edge is scaled on the number of common missions. 
 
 
-### Astonaut Mission Network (Circle)
+### Astronaut Mission Network (Circle)
 
 ```{r}
 visNetwork(nodes, edges, height = "100%", width = "100%") %>%
@@ -51,7 +51,7 @@ visNetwork(nodes, edges, height = "100%", width = "100%") %>%
 
 Same as the previous tab but arranged in a circle.
 
-### Number of Astonauts Selected by Year
+### Number of Astronauts Selected by Year
 
 ```{r}
 nodes %>% 
