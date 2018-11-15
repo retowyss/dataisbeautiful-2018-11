@@ -1,336 +1,1676 @@
 group,color,id,label,title,value
-1959,#440154FF,1,"Glenn, John H., Jr.","<p><b>Colonel US Marine Corps Glenn, John H., Jr.</b></p><p>Flight Hours: 217</p><p></p>",14.730919862656235
-1959,#440154FF,2,"Schirra, Walter M., Jr.","<p><b>Captain Schirra, Walter M., Jr.</b></p><p>Flight Hours: 295</p><p></p>",17.175564037317667
-1959,#440154FF,3,"Shepard, Alan B., Jr.","<p><b>Rear Admiral Shepard, Alan B., Jr.</b></p><p>Flight Hours: 216</p><p></p>",14.696938456699069
-1959,#440154FF,4,"Slayton, Donald K.","<p><b>Major Slayton, Donald K.</b></p><p>Flight Hours: 217</p><p></p>",14.730919862656235
-1959,#440154FF,5,"Carpenter, M. Scott","<p><b>Commander Carpenter, M. Scott</b></p><p>Flight Hours: 4</p><p></p>",2
-1959,#440154FF,6,"Grissom, Virgil I.","<p><b>Lieutenant Colonel Grissom, Virgil I.</b></p><p>Flight Hours: 5</p><p></p>",2.23606797749979
-1959,#440154FF,7,"Cooper, L. Gordon, Jr.","<p><b>Colonel Cooper, L. Gordon, Jr.</b></p><p>Flight Hours: 225</p><p></p>",15
-1962,#481568FF,8,"See, Elliot M., Jr.","<p><b> See, Elliot M., Jr.</b></p><p>Flight Hours: 0</p><p></p>",0
-1962,#481568FF,9,"Borman, Frank","<p><b>Colonel Borman, Frank</b></p><p>Flight Hours: 477</p><p></p>",21.840329667841555
-1962,#481568FF,10,"Lovell, James A., Jr.","<p><b>Captain Lovell, James A., Jr.</b></p><p>Flight Hours: 715</p><p></p>",26.739483914241877
-1962,#481568FF,11,"McDivitt, James A.","<p><b>Brigadier General McDivitt, James A.</b></p><p>Flight Hours: 338</p><p></p>",18.384776310850235
-1962,#481568FF,12,"Conrad, Charles, Jr.","<p><b>Captain Conrad, Charles, Jr.</b></p><p>Flight Hours: 1179</p><p></p>",34.336569426778794
-1962,#481568FF,13,"Armstrong, Neil A.","<p><b> Armstrong, Neil A.</b></p><p>Flight Hours: 205</p><p></p>",14.317821063276353
-1962,#481568FF,14,"Stafford, Thomas P.","<p><b>Lieutenant General Stafford, Thomas P.</b></p><p>Flight Hours: 507</p><p></p>",22.516660498395403
-1962,#481568FF,15,"Young, John W.","<p><b>Captain Young, John W.</b></p><p>Flight Hours: 835</p><p></p>",28.89636655359978
-1962,#481568FF,16,"White, Edward H., II","<p><b>Lieutenant Colonel White, Edward H., II</b></p><p>Flight Hours: 97</p><p></p>",9.848857801796104
-1963,#482677FF,17,"Gordon, Richard F., Jr.","<p><b>Captain Gordon, Richard F., Jr.</b></p><p>Flight Hours: 315</p><p></p>",17.74823934929885
-1963,#482677FF,18,"Aldrin, Buzz","<p><b>Colonel Aldrin, Buzz</b></p><p>Flight Hours: 289</p><p></p>",17
-1963,#482677FF,19,"Freeman, Theodore C.","<p><b>Captain Freeman, Theodore C.</b></p><p>Flight Hours: 0</p><p></p>",0
-1963,#482677FF,20,"Eisele, Donn F.","<p><b>Colonel Eisele, Donn F.</b></p><p>Flight Hours: 260</p><p></p>",16.1245154965971
-1963,#482677FF,21,"Collins, Michael","<p><b>US Air Force Reserve Collins, Michael</b></p><p>Flight Hours: 266</p><p></p>",16.30950643030009
-1963,#482677FF,22,"Bassett, Charles A., II","<p><b>Captain Bassett, Charles A., II</b></p><p>Flight Hours: 0</p><p></p>",0
-1963,#482677FF,23,"Bean, Alan L.","<p><b>Captain Bean, Alan L.</b></p><p>Flight Hours: 1671</p><p></p>",40.87786687193939
-1963,#482677FF,24,"Cunningham, Walter","<p><b>Colonel Cunningham, Walter</b></p><p>Flight Hours: 263</p><p></p>",16.217274740226856
-1963,#482677FF,25,"Scott, David R.","<p><b>Colonel Scott, David R.</b></p><p>Flight Hours: 546</p><p></p>",23.366642891095847
-1963,#482677FF,26,"Williams, Clifton C., Jr.","<p><b>Major Williams, Clifton C., Jr.</b></p><p>Flight Hours: 0</p><p></p>",0
-1963,#482677FF,27,"Anders, William A.","<p><b>US Air Force Reserve Anders, William A.</b></p><p>Flight Hours: 147</p><p></p>",12.12435565298214
-1963,#482677FF,28,"Cernan, Eugene A.","<p><b>Captain Cernan, Eugene A.</b></p><p>Flight Hours: 566</p><p></p>",23.790754506740637
-1963,#482677FF,29,"Chaffee, Roger B.","<p><b>Lieutenant Commander Chaffee, Roger B.</b></p><p>Flight Hours: 0</p><p></p>",0
-1963,#482677FF,30,"Schweickart, Russell L.","<p><b> Schweickart, Russell L.</b></p><p>Flight Hours: 241</p><p></p>",15.524174696260024
-1965,#453781FF,31,"Garriott, Owen K.","<p><b> Garriott, Owen K.</b></p><p>Flight Hours: 1674</p><p></p>",40.91454509095757
-1965,#453781FF,32,"Graveline, Duane E.","<p><b> Graveline, Duane E.</b></p><p>Flight Hours: 0</p><p></p>",0
-1965,#453781FF,33,"Kerwin, Joseph P.","<p><b>Captain Kerwin, Joseph P.</b></p><p>Flight Hours: 672</p><p></p>",25.92296279363144
-1965,#453781FF,34,"Michel, F. Curtis","<p><b> Michel, F. Curtis</b></p><p>Flight Hours: 0</p><p></p>",0
-1965,#453781FF,35,"Schmitt, Harrison H.","<p><b> Schmitt, Harrison H.</b></p><p>Flight Hours: 301</p><p></p>",17.349351572897472
-1965,#453781FF,36,"Gibson, Edward G.","<p><b> Gibson, Edward G.</b></p><p>Flight Hours: 2017</p><p></p>",44.91102314577124
-1966,#3F4788FF,37,"Givens, Edward G., Jr.","<p><b>Major Givens, Edward G., Jr.</b></p><p>Flight Hours: 0</p><p></p>",0
-1966,#3F4788FF,38,"Pogue, William R.","<p><b>Colonel Pogue, William R.</b></p><p>Flight Hours: 2017</p><p></p>",44.91102314577124
-1966,#3F4788FF,39,"Irwin, James B.","<p><b>Colonel Irwin, James B.</b></p><p>Flight Hours: 295</p><p></p>",17.175564037317667
-1966,#3F4788FF,40,"Lind, Don L.","<p><b> Lind, Don L.</b></p><p>Flight Hours: 168</p><p></p>",12.96148139681572
-1966,#3F4788FF,41,"Mitchell, Edgar D.","<p><b>Captain Mitchell, Edgar D.</b></p><p>Flight Hours: 216</p><p></p>",14.696938456699069
-1966,#3F4788FF,42,"Brand, Vance D.","<p><b> Brand, Vance D.</b></p><p>Flight Hours: 746</p><p></p>",27.313000567495326
-1966,#3F4788FF,43,"Swigert, John L., Jr.","<p><b> Swigert, John L., Jr.</b></p><p>Flight Hours: 142</p><p></p>",11.916375287812984
-1966,#3F4788FF,44,"Worden, Alfred M.","<p><b>Colonel Worden, Alfred M.</b></p><p>Flight Hours: 295</p><p></p>",17.175564037317667
-1966,#3F4788FF,45,"Weitz, Paul J.","<p><b>Captain Weitz, Paul J.</b></p><p>Flight Hours: 793</p><p></p>",28.160255680657446
-1966,#3F4788FF,46,"Carr, Gerald P.","<p><b>Colonel Carr, Gerald P.</b></p><p>Flight Hours: 2017</p><p></p>",44.91102314577124
-1966,#3F4788FF,47,"Engle, Joe H.","<p><b>Major General Engle, Joe H.</b></p><p>Flight Hours: 224</p><p></p>",14.966629547095765
-1966,#3F4788FF,48,"Roosa, Stuart A.","<p><b>Colonel Roosa, Stuart A.</b></p><p>Flight Hours: 216</p><p></p>",14.696938456699069
-1966,#3F4788FF,49,"Evans, Ronald E.","<p><b>Captain Evans, Ronald E.</b></p><p>Flight Hours: 301</p><p></p>",17.349351572897472
-1966,#3F4788FF,50,"Haise, Fred W., Jr.","<p><b> Haise, Fred W., Jr.</b></p><p>Flight Hours: 142</p><p></p>",11.916375287812984
-1966,#3F4788FF,51,"Bull, John S.","<p><b> Bull, John S.</b></p><p>Flight Hours: 0</p><p></p>",0
-1966,#3F4788FF,52,"Duke, Charles M., Jr.","<p><b>Brigadier General Duke, Charles M., Jr.</b></p><p>Flight Hours: 265</p><p></p>",16.278820596099706
-1966,#3F4788FF,53,"Lousma, Jack R.","<p><b>Colonel Lousma, Jack R.</b></p><p>Flight Hours: 1619</p><p></p>",40.23679907746142
-1966,#3F4788FF,54,"Mattingly, Thomas K., II","<p><b>Rear Admiral US Navy Mattingly, Thomas K., II</b></p><p>Flight Hours: 504</p><p></p>",22.44994432064365
-1966,#3F4788FF,55,"McCandless, Bruce, II","<p><b>Captain McCandless, Bruce, II</b></p><p>Flight Hours: 312</p><p></p>",17.663521732655695
-1967,#39558CFF,56,"Henize, Karl G.","<p><b> Henize, Karl G.</b></p><p>Flight Hours: 188</p><p></p>",13.711309200802088
-1967,#39558CFF,57,"Thornton, William E.","<p><b> Thornton, William E.</b></p><p>Flight Hours: 313</p><p></p>",17.69180601295413
-1967,#39558CFF,58,"Llewellyn, John A.","<p><b> Llewellyn, John A.</b></p><p>Flight Hours: 0</p><p></p>",0
-1967,#39558CFF,59,"Chapman, Philip K.","<p><b> Chapman, Philip K.</b></p><p>Flight Hours: 0</p><p></p>",0
-1967,#39558CFF,60,"Musgrave, Story","<p><b> Musgrave, Story</b></p><p>Flight Hours: 1281</p><p></p>",35.79106033634656
-1967,#39558CFF,61,"Parker, Robert A. R.","<p><b> Parker, Robert A. R.</b></p><p>Flight Hours: 462</p><p></p>",21.494185260204677
-1967,#39558CFF,62,"Allen, Joseph P.","<p><b> Allen, Joseph P.</b></p><p>Flight Hours: 313</p><p></p>",17.69180601295413
-1967,#39558CFF,63,"Lenoir, William B.","<p><b> Lenoir, William B.</b></p><p>Flight Hours: 122</p><p></p>",11.045361017187261
-1967,#39558CFF,64,"Holmquest, Donald L.","<p><b> Holmquest, Donald L.</b></p><p>Flight Hours: 0</p><p></p>",0
-1967,#39558CFF,65,"O'Leary, Brian T.","<p><b> O'Leary, Brian T.</b></p><p>Flight Hours: 0</p><p></p>",0
-1967,#39558CFF,66,"England, Anthony W.","<p><b> England, Anthony W.</b></p><p>Flight Hours: 190</p><p></p>",13.784048752090222
-1969,#32648EFF,67,"Peterson, Donald H.","<p><b>Colonel Peterson, Donald H.</b></p><p>Flight Hours: 120</p><p></p>",10.954451150103322
-1969,#32648EFF,68,"Hartsfield, Henry W., Jr.","<p><b>Colonel Hartsfield, Henry W., Jr.</b></p><p>Flight Hours: 482</p><p></p>",21.95449840010015
-1969,#32648EFF,69,"Overmyer, Robert F.","<p><b>Colonel Overmyer, Robert F.</b></p><p>Flight Hours: 290</p><p></p>",17.029386365926403
-1969,#32648EFF,70,"Fullerton, Charles G.","<p><b>US Air Force (Retired) Fullerton, Charles G.</b></p><p>Flight Hours: 382</p><p></p>",19.544820285692065
-1969,#32648EFF,71,"Crippen, Robert L.","<p><b>Captain Crippen, Robert L.</b></p><p>Flight Hours: 565</p><p></p>",23.769728648009426
-1969,#32648EFF,72,"Truly, Richard H.","<p><b>Vice Admiral Truly, Richard H.</b></p><p>Flight Hours: 199</p><p></p>",14.106735979665885
-1969,#32648EFF,73,"Bobko, Karol J.","<p><b>Colonel Bobko, Karol J.</b></p><p>Flight Hours: 386</p><p></p>",19.6468827043885
-1978,#2D718EFF,74,"Fabian, John M.","<p><b>Colonel Fabian, John M.</b></p><p>Flight Hours: 316</p><p></p>",17.776388834631177
-1978,#2D718EFF,75,"Scobee, Francis R.","<p><b>Major Scobee, Francis R.</b></p><p>Flight Hours: 168</p><p></p>",12.96148139681572
-1978,#2D718EFF,76,"Griggs, S. David","<p><b> Griggs, S. David</b></p><p>Flight Hours: 167</p><p></p>",12.922847983320086
-1978,#2D718EFF,77,"Gregory, Frederick D.","<p><b>Colonel Gregory, Frederick D.</b></p><p>Flight Hours: 455</p><p></p>",21.330729007701542
-1978,#2D718EFF,78,"Hauck, Frederick H.","<p><b>Captain Hauck, Frederick H.</b></p><p>Flight Hours: 436</p><p></p>",20.8806130178211
-1978,#2D718EFF,79,"Williams, Donald E.","<p><b>Captain Williams, Donald E.</b></p><p>Flight Hours: 287</p><p></p>",16.941074346097416
-1978,#2D718EFF,80,"Stewart, Robert L.","<p><b>Brigadier General Stewart, Robert L.</b></p><p>Flight Hours: 289</p><p></p>",17
-1978,#2D718EFF,81,"Bluford, Guion S., Jr.","<p><b>Colonel Bluford, Guion S., Jr.</b></p><p>Flight Hours: 688</p><p></p>",26.229754097208
-1978,#2D718EFF,82,"Lucid, Shannon W.","<p><b> Lucid, Shannon W.</b></p><p>Flight Hours: 5354</p><p></p>",73.17103251970687
-1978,#2D718EFF,83,"Brandenstein, Daniel C.","<p><b>Captain Brandenstein, Daniel C.</b></p><p>Flight Hours: 789</p><p></p>",28.089143810376278
-1978,#2D718EFF,84,"Creighton, John O.","<p><b>Captain Creighton, John O.</b></p><p>Flight Hours: 404</p><p></p>",20.09975124224178
-1978,#2D718EFF,85,"Thagard, Norman E.","<p><b> Thagard, Norman E.</b></p><p>Flight Hours: 3360</p><p></p>",57.96550698475775
-1978,#2D718EFF,86,"McBride, Jon A.","<p><b>Captain McBride, Jon A.</b></p><p>Flight Hours: 197</p><p></p>",14.035668847618199
-1978,#2D718EFF,87,"Walker, David M.","<p><b>Captain Walker, David M.</b></p><p>Flight Hours: 724</p><p></p>",26.90724809414742
-1978,#2D718EFF,88,"Van Hoften, James D. A.","<p><b> Van Hoften, James D. A.</b></p><p>Flight Hours: 338</p><p></p>",18.384776310850235
-1978,#2D718EFF,89,"Shriver, Loren J.","<p><b>Colonel Shriver, Loren J.</b></p><p>Flight Hours: 386</p><p></p>",19.6468827043885
-1978,#2D718EFF,90,"Hoffman, Jeffrey A.","<p><b> Hoffman, Jeffrey A.</b></p><p>Flight Hours: 1211</p><p></p>",34.79942528261063
-1978,#2D718EFF,91,"Shaw, Brewster H., Jr.","<p><b>Colonel Shaw, Brewster H., Jr.</b></p><p>Flight Hours: 533</p><p></p>",23.08679276123039
-1978,#2D718EFF,92,"Buchli, James F.","<p><b>Colonel Buchli, James F.</b></p><p>Flight Hours: 490</p><p></p>",22.135943621178654
-1978,#2D718EFF,93,"Mullane, Richard M.","<p><b>Colonel Mullane, Richard M.</b></p><p>Flight Hours: 356</p><p></p>",18.867962264113206
-1978,#2D718EFF,94,"Coats, Michael L.","<p><b>Captain Coats, Michael L.</b></p><p>Flight Hours: 463</p><p></p>",21.517434791350013
-1978,#2D718EFF,95,"Onizuka, Ellison S.","<p><b>Lieutenant  Colonel Onizuka, Ellison S.</b></p><p>Flight Hours: 73</p><p></p>",8.54400374531753
-1978,#2D718EFF,96,"Covey, Richard O.","<p><b>Colonel Covey, Richard O.</b></p><p>Flight Hours: 645</p><p></p>",25.39685019840059
-1978,#2D718EFF,97,"Hart, Terry J.","<p><b> Hart, Terry J.</b></p><p>Flight Hours: 167</p><p></p>",12.922847983320086
-1978,#2D718EFF,98,"Nagel, Steven R.","<p><b>Colonel Nagel, Steven R.</b></p><p>Flight Hours: 723</p><p></p>",26.888659319497503
-1978,#2D718EFF,99,"Gibson, Robert L.","<p><b>Captain Gibson, Robert L.</b></p><p>Flight Hours: 868</p><p></p>",29.46183972531247
-1978,#2D718EFF,100,"Seddon, Margaret Rhea","<p><b> Seddon, Margaret Rhea</b></p><p>Flight Hours: 722</p><p></p>",26.870057685088806
-1978,#2D718EFF,101,"Gardner, Dale A.","<p><b>Captain Gardner, Dale A.</b></p><p>Flight Hours: 336</p><p></p>",18.33030277982336
-1978,#2D718EFF,102,"Resnik, Judith A.","<p><b> Resnik, Judith A.</b></p><p>Flight Hours: 144</p><p></p>",12
-1978,#2D718EFF,103,"Fisher, Anna L.","<p><b> Fisher, Anna L.</b></p><p>Flight Hours: 191</p><p></p>",13.820274961085254
-1978,#2D718EFF,104,"Nelson, George D.","<p><b> Nelson, George D.</b></p><p>Flight Hours: 411</p><p></p>",20.273134932713294
-1978,#2D718EFF,105,"McNair, Ronald E.","<p><b> McNair, Ronald E.</b></p><p>Flight Hours: 191</p><p></p>",13.820274961085254
-1978,#2D718EFF,106,"Ride, Sally K.","<p><b> Ride, Sally K.</b></p><p>Flight Hours: 343</p><p></p>",18.520259177452136
-1978,#2D718EFF,107,"Sullivan, Kathryn D.","<p><b> Sullivan, Kathryn D.</b></p><p>Flight Hours: 532</p><p></p>",23.065125189341593
-1978,#2D718EFF,108,"Hawley, Steven A.","<p><b> Hawley, Steven A.</b></p><p>Flight Hours: 770</p><p></p>",27.748873851023216
-1980,#287D8EFF,109,"Springer, Robert C.","<p><b>Colonel Springer, Robert C.</b></p><p>Flight Hours: 237</p><p></p>",15.394804318340652
-1980,#287D8EFF,110,"Blaha, John E.","<p><b>Colonel Blaha, John E.</b></p><p>Flight Hours: 3864</p><p></p>",62.161081071680215
-1980,#287D8EFF,111,"Bridges, Roy D., Jr.","<p><b>Major General Bridges, Roy D., Jr.</b></p><p>Flight Hours: 190</p><p></p>",13.784048752090222
-1980,#287D8EFF,112,"Spring, Sherwood C.","<p><b>Colonel Spring, Sherwood C.</b></p><p>Flight Hours: 165</p><p></p>",12.84523257866513
-1980,#287D8EFF,113,"Smith, Michael J.","<p><b>Captain Smith, Michael J.</b></p><p>Flight Hours: 0</p><p></p>",0
-1980,#287D8EFF,114,"Grabe, Ronald J.","<p><b>Colonel Grabe, Ronald J.</b></p><p>Flight Hours: 627</p><p></p>",25.03996805109783
-1980,#287D8EFF,115,"Fisher, William F.","<p><b> Fisher, William F.</b></p><p>Flight Hours: 170</p><p></p>",13.038404810405298
-1980,#287D8EFF,116,"Lounge, John M.","<p><b> Lounge, John M.</b></p><p>Flight Hours: 482</p><p></p>",21.95449840010015
-1980,#287D8EFF,117,"Bolden, Charles F., Jr.","<p><b>Brigadier General Bolden, Charles F., Jr.</b></p><p>Flight Hours: 680</p><p></p>",26.076809620810597
-1980,#287D8EFF,118,"Richards, Richard N.","<p><b>Captain Richards, Richard N.</b></p><p>Flight Hours: 813</p><p></p>",28.513154858766505
-1980,#287D8EFF,119,"O'Connor, Bryan D.","<p><b>Colonel O'Connor, Bryan D.</b></p><p>Flight Hours: 386</p><p></p>",19.6468827043885
-1980,#287D8EFF,120,"Cleave, Mary L.","<p><b> Cleave, Mary L.</b></p><p>Flight Hours: 240</p><p></p>",15.491933384829668
-1980,#287D8EFF,121,"Gardner, Guy S.","<p><b>Colonel Gardner, Guy S.</b></p><p>Flight Hours: 320</p><p></p>",17.88854381999832
-1980,#287D8EFF,122,"Ross, Jerry L.","<p><b>Colonel Ross, Jerry L.</b></p><p>Flight Hours: 1393</p><p></p>",37.322915213043046
-1980,#287D8EFF,123,"Dunbar, Bonnie J.","<p><b> Dunbar, Bonnie J.</b></p><p>Flight Hours: 1208</p><p></p>",34.75629439396553
-1980,#287D8EFF,124,"Leestma, David C.","<p><b>Captain Leestma, David C.</b></p><p>Flight Hours: 532</p><p></p>",23.065125189341593
-1980,#287D8EFF,125,"Hilmers, David C.","<p><b>Colonel Hilmers, David C.</b></p><p>Flight Hours: 494</p><p></p>",22.22611077089287
-1980,#287D8EFF,126,"Chang-Diaz, Franklin R.","<p><b> Chang-Diaz, Franklin R.</b></p><p>Flight Hours: 1601</p><p></p>",40.01249804748511
-1980,#287D8EFF,127,"Bagian, James P.","<p><b> Bagian, James P.</b></p><p>Flight Hours: 337</p><p></p>",18.35755975068582
-1984,#238A8DFF,128,"Casper, John H.","<p><b>Colonel Casper, John H.</b></p><p>Flight Hours: 825</p><p></p>",28.722813232690143
-1984,#238A8DFF,129,"McCulley, Michael J.","<p><b>Captain McCulley, Michael J.</b></p><p>Flight Hours: 119</p><p></p>",10.908712114635714
-1984,#238A8DFF,130,"Veach, Charles Lacy","<p><b> Veach, Charles Lacy</b></p><p>Flight Hours: 436</p><p></p>",20.8806130178211
-1984,#238A8DFF,131,"Adamson, James C.","<p><b>Colonel Adamson, James C.</b></p><p>Flight Hours: 334</p><p></p>",18.275666882497067
-1984,#238A8DFF,132,"Carter, Manley Lanier, Jr.","<p><b>Captain Carter, Manley Lanier, Jr.</b></p><p>Flight Hours: 120</p><p></p>",10.954451150103322
-1984,#238A8DFF,133,"Culbertson, Frank L., Jr.","<p><b>Captain Culbertson, Frank L., Jr.</b></p><p>Flight Hours: 146</p><p></p>",12.083045973594572
-1984,#238A8DFF,134,"Shepherd, William M.","<p><b>Captain Shepherd, William M.</b></p><p>Flight Hours: 3816</p><p></p>",61.773780845922005
-1984,#238A8DFF,135,"Cameron, Kenneth D.","<p><b>Colonel Cameron, Kenneth D.</b></p><p>Flight Hours: 561</p><p></p>",23.68543856465402
-1984,#238A8DFF,136,"Ivins, Marsha S.","<p><b> Ivins, Marsha S.</b></p><p>Flight Hours: 1318</p><p></p>",36.30426972134269
-1984,#238A8DFF,137,"Gutierrez, Sidney M.","<p><b>Colonel Gutierrez, Sidney M.</b></p><p>Flight Hours: 488</p><p></p>",22.090722034374522
-1984,#238A8DFF,138,"Brown, Mark N.","<p><b>Colonel Brown, Mark N.</b></p><p>Flight Hours: 249</p><p></p>",15.7797338380595
-1984,#238A8DFF,139,"Hammond, L. Blaine, Jr.","<p><b>Colonel Hammond, L. Blaine, Jr.</b></p><p>Flight Hours: 462</p><p></p>",21.494185260204677
-1984,#238A8DFF,140,"Lee, Mark C.","<p><b>Colonel Lee, Mark C.</b></p><p>Flight Hours: 789</p><p></p>",28.089143810376278
-1984,#238A8DFF,141,"Thornton, Kathryn C.","<p><b> Thornton, Kathryn C.</b></p><p>Flight Hours: 975</p><p></p>",31.22498999199199
-1984,#238A8DFF,142,"Wetherbee, James D.","<p><b>Captain Wetherbee, James D.</b></p><p>Flight Hours: 1592</p><p></p>",39.89987468652001
-1984,#238A8DFF,143,"Baker, Ellen S.","<p><b> Baker, Ellen S.</b></p><p>Flight Hours: 686</p><p></p>",26.19160170741759
-1984,#238A8DFF,144,"Low, G. David","<p><b> Low, G. David</b></p><p>Flight Hours: 714</p><p></p>",26.720778431774775
-1985,#1F968BFF,145,"Cabana, Robert D.","<p><b>Colonel Cabana, Robert D.</b></p><p>Flight Hours: 1010</p><p></p>",31.78049716414141
-1985,#1F968BFF,146,"Apt, Jerome","<p><b> Apt, Jerome</b></p><p>Flight Hours: 847</p><p></p>",29.103264421710495
-1985,#1F968BFF,147,"Meade, Carl J.","<p><b>Colonel Meade, Carl J.</b></p><p>Flight Hours: 712</p><p></p>",26.68332812825267
-1985,#1F968BFF,148,"Oswald, Stephen S.","<p><b> Oswald, Stephen S.</b></p><p>Flight Hours: 814</p><p></p>",28.53068523537421
-1985,#1F968BFF,149,"Godwin, Linda M.","<p><b> Godwin, Linda M.</b></p><p>Flight Hours: 912</p><p></p>",30.199337741083
-1985,#1F968BFF,150,"Henricks, Terence T.","<p><b>Colonel Henricks, Terence T.</b></p><p>Flight Hours: 1026</p><p></p>",32.03123475609393
-1985,#1F968BFF,151,"Thorne, Stephen D.","<p><b>Lieutenant Commander Thorne, Stephen D.</b></p><p>Flight Hours: 0</p><p></p>",0
-1985,#1F968BFF,152,"Duffy, Brian","<p><b>Colonel Duffy, Brian</b></p><p>Flight Hours: 976</p><p></p>",31.240998703626616
-1985,#1F968BFF,153,"Baker, Michael A.","<p><b>Captain Baker, Michael A.</b></p><p>Flight Hours: 965</p><p></p>",31.064449134018133
-1985,#1F968BFF,154,"Thuot, Pierre J.","<p><b>Commander Thuot, Pierre J.</b></p><p>Flight Hours: 654</p><p></p>",25.573423705088842
-1985,#1F968BFF,155,"Gemar, Charles D.","<p><b>Lieutenant Colonel Gemar, Charles D.</b></p><p>Flight Hours: 581</p><p></p>",24.1039415863879
-1985,#1F968BFF,156,"Hieb, Richard J.","<p><b> Hieb, Richard J.</b></p><p>Flight Hours: 766</p><p></p>",27.676705006196094
-1985,#1F968BFF,157,"Jernigan, Tamara E.","<p><b> Jernigan, Tamara E.</b></p><p>Flight Hours: 1512</p><p></p>",38.88444419044716
-1987,#20A386FF,158,"Voss, James S.","<p><b>Colonel Voss, James S.</b></p><p>Flight Hours: 4848</p><p></p>",69.62758074211685
-1987,#20A386FF,159,"Melnick, Bruce E.","<p><b>Commander Melnick, Bruce E.</b></p><p>Flight Hours: 311</p><p></p>",17.635192088548397
-1987,#20A386FF,160,"Reightler, Kenneth S., Jr.","<p><b>Captain Reightler, Kenneth S., Jr.</b></p><p>Flight Hours: 327</p><p></p>",18.083141320025124
-1987,#20A386FF,161,"Akers, Thomas D.","<p><b>Lieutenant Colonel Akers, Thomas D.</b></p><p>Flight Hours: 814</p><p></p>",28.53068523537421
-1987,#20A386FF,162,"Readdy, William F.","<p><b> Readdy, William F.</b></p><p>Flight Hours: 672</p><p></p>",25.92296279363144
-1987,#20A386FF,163,"Runco, Mario, Jr.","<p><b>Lieutenant Commander Runco, Mario, Jr.</b></p><p>Flight Hours: 551</p><p></p>",23.473389188611005
-1987,#20A386FF,164,"McMonagle, Donald R.","<p><b>Colonel McMonagle, Donald R.</b></p><p>Flight Hours: 605</p><p></p>",24.596747752497688
-1987,#20A386FF,165,"Davis, N. Jan","<p><b> Davis, N. Jan</b></p><p>Flight Hours: 673</p><p></p>",25.942243542145693
-1987,#20A386FF,166,"Chilton, Kevin P.","<p><b>Brigadier General Chilton, Kevin P.</b></p><p>Flight Hours: 704</p><p></p>",26.5329983228432
-1987,#20A386FF,167,"Allen, Andrew M.","<p><b>Lieutenant Colonel Allen, Andrew M.</b></p><p>Flight Hours: 904</p><p></p>",30.066592756745816
-1987,#20A386FF,168,"Brown, Curtis L., Jr.","<p><b>Colonel Brown, Curtis L., Jr.</b></p><p>Flight Hours: 1381</p><p></p>",37.16180835212409
-1987,#20A386FF,169,"Harbaugh, Gregory J.","<p><b> Harbaugh, Gregory J.</b></p><p>Flight Hours: 817</p><p></p>",28.583211855912904
-1987,#20A386FF,170,"Jemison, Mae C.","<p><b> Jemison, Mae C.</b></p><p>Flight Hours: 190</p><p></p>",13.784048752090222
-1987,#20A386FF,171,"Bowersox, Kenneth D.","<p><b>Captain Bowersox, Kenneth D.</b></p><p>Flight Hours: 5304</p><p></p>",72.8285658241325
-1987,#20A386FF,172,"Foale, C. Michael","<p><b> Foale, C. Michael</b></p><p>Flight Hours: 8976</p><p></p>",94.74175425861608
-1990,#29AF7FFF,173,"Wilcutt, Terrence W.","<p><b>Colonel Wilcutt, Terrence W.</b></p><p>Flight Hours: 1007</p><p></p>",31.73326330524486
-1990,#29AF7FFF,174,"Cockrell, Kenneth D.","<p><b>US Naval Reserve Cockrell, Kenneth D.</b></p><p>Flight Hours: 1560</p><p></p>",39.496835316262995
-1990,#29AF7FFF,175,"McArthur, William S., Jr.","<p><b>Colonel McArthur, William S., Jr.</b></p><p>Flight Hours: 5398</p><p></p>",73.47108274688756
-1990,#29AF7FFF,176,"Clifford, Michael R.","<p><b>Lieutenant Colonel Clifford, Michael R.</b></p><p>Flight Hours: 665</p><p></p>",25.787593916455254
-1990,#29AF7FFF,177,"Sega, Ronald M.","<p><b>Colonel Sega, Ronald M.</b></p><p>Flight Hours: 420</p><p></p>",20.493901531919196
-1990,#29AF7FFF,178,"Jones, Thomas D.","<p><b> Jones, Thomas D.</b></p><p>Flight Hours: 1272</p><p></p>",35.66510900025401
-1990,#29AF7FFF,179,"Thomas, Donald A.","<p><b> Thomas, Donald A.</b></p><p>Flight Hours: 1040</p><p></p>",32.2490309931942
-1990,#29AF7FFF,180,"Precourt, Charles J., Jr.","<p><b>Colonel Precourt, Charles J., Jr.</b></p><p>Flight Hours: 932</p><p></p>",30.528675044947494
-1990,#29AF7FFF,181,"Walz, Carl E.","<p><b>Colonel Walz, Carl E.</b></p><p>Flight Hours: 5544</p><p></p>",74.45804187594514
-1990,#29AF7FFF,182,"Searfoss, Richard A.","<p><b>Colonel Searfoss, Richard A.</b></p><p>Flight Hours: 938</p><p></p>",30.62678566222711
-1990,#29AF7FFF,183,"Harris, Bernard A., Jr.","<p><b> Harris, Bernard A., Jr.</b></p><p>Flight Hours: 438</p><p></p>",20.92844953645635
-1990,#29AF7FFF,184,"Wolf, David A.","<p><b> Wolf, David A.</b></p><p>Flight Hours: 3432</p><p></p>",58.58327406350724
-1990,#29AF7FFF,185,"Halsell, James D., Jr.","<p><b>Colonel Halsell, James D., Jr.</b></p><p>Flight Hours: 1250</p><p></p>",35.35533905932738
-1990,#29AF7FFF,186,"Voss, Janice E.","<p><b> Voss, Janice E.</b></p><p>Flight Hours: 1176</p><p></p>",34.292856398964496
-1990,#29AF7FFF,187,"Newman, James H.","<p><b> Newman, James H.</b></p><p>Flight Hours: 1032</p><p></p>",32.12475680841802
-1990,#29AF7FFF,188,"Gregory, William G.","<p><b>Lieutenant Colonel Gregory, William G.</b></p><p>Flight Hours: 399</p><p></p>",19.974984355438178
-1990,#29AF7FFF,189,"Bursch, Daniel W.","<p><b>Captain Bursch, Daniel W.</b></p><p>Flight Hours: 5448</p><p></p>",73.81056834898374
-1990,#29AF7FFF,190,"Helms, Susan J.","<p><b>Colonel Helms, Susan J.</b></p><p>Flight Hours: 5064</p><p></p>",71.16178749862878
-1990,#29AF7FFF,191,"Ochoa, Ellen","<p><b> Ochoa, Ellen</b></p><p>Flight Hours: 978</p><p></p>",31.272991542223778
-1990,#29AF7FFF,192,"Wisoff, Peter J. K.","<p><b> Wisoff, Peter J. K.</b></p><p>Flight Hours: 1063</p><p></p>",32.60368077380221
-1990,#29AF7FFF,193,"Currie, Nancy J.","<p><b>Lieutenant Colonel Currie, Nancy J.</b></p><p>Flight Hours: 999</p><p></p>",31.606961258558215
-1990,#29AF7FFF,194,"Collins, Eileen M.","<p><b>Colonel Collins, Eileen M.</b></p><p>Flight Hours: 872</p><p></p>",29.5296461204668
-1990,#29AF7FFF,195,"Chiao, Leroy","<p><b> Chiao, Leroy</b></p><p>Flight Hours: 5503</p><p></p>",74.18220810949214
-1992,#3CBC75FF,196,"Tanner, Joseph R.","<p><b> Tanner, Joseph R.</b></p><p>Flight Hours: 1069</p><p></p>",32.69556544854363
-1992,#3CBC75FF,197,"Scott, Winston E.","<p><b>Captain Scott, Winston E.</b></p><p>Flight Hours: 590</p><p></p>",24.289915602982237
-1992,#3CBC75FF,198,"Brady, Charles E., Jr.","<p><b>Captain Brady, Charles E., Jr.</b></p><p>Flight Hours: 405</p><p></p>",20.12461179749811
-1992,#3CBC75FF,199,"Thomas, Andrew S. W.","<p><b> Thomas, Andrew S. W.</b></p><p>Flight Hours: 4248</p><p></p>",65.1766829472013
-1992,#3CBC75FF,200,"Barry, Daniel T.","<p><b> Barry, Daniel T.</b></p><p>Flight Hours: 734</p><p></p>",27.09243436828813
-1992,#3CBC75FF,201,"Linenger, Jerry M.","<p><b>Captain Linenger, Jerry M.</b></p><p>Flight Hours: 3435</p><p></p>",58.60887304837041
-1992,#3CBC75FF,202,"Gernhardt, Michael L.","<p><b> Gernhardt, Michael L.</b></p><p>Flight Hours: 1032</p><p></p>",32.12475680841802
-1992,#3CBC75FF,203,"Rominger, Kent V.","<p><b>Captain Rominger, Kent V.</b></p><p>Flight Hours: 1608</p><p></p>",40.099875311526844
-1992,#3CBC75FF,204,Kregel Kevin R.,<p><b> Kregel Kevin R.</b></p><p>Flight Hours: 1265</p><p></p>,35.566838487557476
-1992,#3CBC75FF,205,"Horowitz, Scott J.","<p><b>Colonel Horowitz, Scott J.</b></p><p>Flight Hours: 1138</p><p></p>",33.734255586866
-1992,#3CBC75FF,206,"Linnehan, Richard M.","<p><b> Linnehan, Richard M.</b></p><p>Flight Hours: 1392</p><p></p>",37.30951621235526
-1992,#3CBC75FF,207,"Lopez-Alegria, Michael E.","<p><b>Captain Lopez-Alegria, Michael E.</b></p><p>Flight Hours: 6168</p><p></p>",78.53661566428744
-1992,#3CBC75FF,208,"Jett, Brent W.","<p><b>Captain Jett, Brent W.</b></p><p>Flight Hours: 960</p><p></p>",30.983866769659336
-1992,#3CBC75FF,209,"Grunsfeld, John M.","<p><b> Grunsfeld, John M.</b></p><p>Flight Hours: 1392</p><p></p>",37.30951621235526
-1992,#3CBC75FF,210,"Smith, Steven L.","<p><b> Smith, Steven L.</b></p><p>Flight Hours: 959</p><p></p>",30.967725134404045
-1992,#3CBC75FF,211,"Lawrence, Wendy B.","<p><b>Captain Lawrence, Wendy B.</b></p><p>Flight Hours: 1225</p><p></p>",35
-1992,#3CBC75FF,212,"Coleman, Catherine G.","<p><b>Lieutenant Colonel Coleman, Catherine G.</b></p><p>Flight Hours: 500</p><p></p>",22.360679774997898
-1992,#3CBC75FF,213,"Parazynski, Scott E.","<p><b> Parazynski, Scott E.</b></p><p>Flight Hours: 1318</p><p></p>",36.30426972134269
-1992,#3CBC75FF,214,"Weber, Mary E.","<p><b> Weber, Mary E.</b></p><p>Flight Hours: 450</p><p></p>",21.213203435596427
-1995,#56C667FF,215,"Reilly, James F.","<p><b>US Naval Reserve Reilly, James F.</b></p><p>Flight Hours: 853</p><p></p>",29.206163733020468
-1995,#56C667FF,216,"Ashby, Jeffrey S.","<p><b>Captain Ashby, Jeffrey S.</b></p><p>Flight Hours: 660</p><p></p>",25.69046515733026
-1995,#56C667FF,217,"Robinson, Stephen K.","<p><b> Robinson, Stephen K.</b></p><p>Flight Hours: 1156</p><p></p>",34
-1995,#56C667FF,218,"Gorie, Dominic L.","<p><b>Captain Gorie, Dominic L.</b></p><p>Flight Hours: 128</p><p></p>",11.313708498984761
-1995,#56C667FF,219,"Husband, Rick D.","<p><b>Colonel Husband, Rick D.</b></p><p>Flight Hours: 617</p><p></p>",24.839484696748443
-1995,#56C667FF,220,"Edwards, Joe F., Jr.","<p><b>Commander Edwards, Joe F., Jr.</b></p><p>Flight Hours: 211</p><p></p>",14.52583904633395
-1995,#56C667FF,221,"Bloomfield, Michael J.","<p><b>Colonel Bloomfield, Michael J.</b></p><p>Flight Hours: 753</p><p></p>",27.440845468024488
-1995,#56C667FF,222,"Kavandi, Janet L.","<p><b> Kavandi, Janet L.</b></p><p>Flight Hours: 792</p><p></p>",28.142494558940577
-1995,#56C667FF,223,"Altman, Scott D.","<p><b>Captain Altman, Scott D.</b></p><p>Flight Hours: 1224</p><p></p>",34.9857113690718
-1995,#56C667FF,224,"Hire, Kathryn P.","<p><b>Captain Hire, Kathryn P.</b></p><p>Flight Hours: 711</p><p></p>",26.664583251946766
-1995,#56C667FF,225,"Noriega, Carlos I.","<p><b>Lieutenant Colonel Noriega, Carlos I.</b></p><p>Flight Hours: 481</p><p></p>",21.93171219946131
-1995,#56C667FF,226,"Anderson, Michael P.","<p><b>Lieutenant Colonel Anderson, Michael P.</b></p><p>Flight Hours: 593</p><p></p>",24.351591323771842
-1995,#56C667FF,227,"Lindsey, Steven W.","<p><b>Colonel Lindsey, Steven W.</b></p><p>Flight Hours: 1510</p><p></p>",38.8587184554509
-1995,#56C667FF,228,"Chawla, Kalpana","<p><b> Chawla, Kalpana</b></p><p>Flight Hours: 758</p><p></p>",27.53179979587241
-1995,#56C667FF,229,"Sturckow, Frederick W.","<p><b>Lieutenant Colonel Sturckow, Frederick W.</b></p><p>Flight Hours: 1200</p><p></p>",34.64101615137755
-1995,#56C667FF,230,"Melroy, Pamela A.","<p><b>Colonel Melroy, Pamela A.</b></p><p>Flight Hours: 924</p><p></p>",30.397368307141328
-1995,#56C667FF,231,"Kilrain, Susan L.","<p><b>Commander Kilrain, Susan L.</b></p><p>Flight Hours: 471</p><p></p>",21.702534414210707
-1995,#56C667FF,232,"Curbeam, Robert L., Jr.","<p><b>Commander US Navy Curbeam, Robert L., Jr.</b></p><p>Flight Hours: 901</p><p></p>",30.01666203960727
-1995,#56C667FF,233,"Lu, Edward T.","<p><b> Lu, Edward T.</b></p><p>Flight Hours: 4944</p><p></p>",70.31358332498779
-1996,#74D055FF,234,"Phillips, John L.","<p><b>US Naval Reserve Phillips, John L.</b></p><p>Flight Hours: 4872</p><p></p>",69.79971346646059
-1996,#74D055FF,235,"Camarda, Charles J.","<p><b> Camarda, Charles J.</b></p><p>Flight Hours: 333</p><p></p>",18.24828759089466
-1996,#74D055FF,236,"Morin, Lee M.","<p><b>Captain Morin, Lee M.</b></p><p>Flight Hours: 259</p><p></p>",16.09347693943108
-1996,#74D055FF,237,"Sellers, Piers J.","<p><b> Sellers, Piers J.</b></p><p>Flight Hours: 839</p><p></p>",28.965496715920477
-1996,#74D055FF,238,"Pettit, Donald R.","<p><b> Pettit, Donald R.</b></p><p>Flight Hours: 4224</p><p></p>",64.99230723708769
-1996,#74D055FF,239,"Brown, David M.","<p><b>Captain Brown, David M.</b></p><p>Flight Hours: 382</p><p></p>",19.544820285692065
-1996,#74D055FF,240,"Lockhart, Paul S.","<p><b>Lieutenant Colonel Lockhart, Paul S.</b></p><p>Flight Hours: 624</p><p></p>",24.979991993593593
-1996,#74D055FF,241,"Polansky, Mark L.","<p><b> Polansky, Mark L.</b></p><p>Flight Hours: 993</p><p></p>",31.51190251317746
-1996,#74D055FF,242,"Forrester, Patrick G.","<p><b>Colonel Forrester, Patrick G.</b></p><p>Flight Hours: 950</p><p></p>",30.822070014844883
-1996,#74D055FF,243,"Carey, Duane G.","<p><b>Lieutenant Colonel Carey, Duane G.</b></p><p>Flight Hours: 240</p><p></p>",15.491933384829668
-1996,#74D055FF,244,"Williams, Jeffrey N.","<p><b>Colonel Williams, Jeffrey N.</b></p><p>Flight Hours: 8688</p><p></p>",93.20944158184835
-1996,#74D055FF,245,"Caldeiro, Fernando (Frank)","<p><b> Caldeiro, Fernando (Frank)</b></p><p>Flight Hours: 0</p><p></p>",0
-1996,#74D055FF,246,"Herrington, John B.","<p><b>Commander Herrington, John B.</b></p><p>Flight Hours: 330</p><p></p>",18.16590212458495
-1996,#74D055FF,247,"Cagle, Yvonne D.","<p><b>Colonel Cagle, Yvonne D.</b></p><p>Flight Hours: 0</p><p></p>",0
-1996,#74D055FF,248,"Whitson, Peggy A.","<p><b> Whitson, Peggy A.</b></p><p>Flight Hours: 9048</p><p></p>",95.12097560475291
-1996,#74D055FF,249,"Mastracchio, Richard A.","<p><b> Mastracchio, Richard A.</b></p><p>Flight Hours: 960</p><p></p>",30.983866769659336
-1996,#74D055FF,250,"Loria, Christopher J.","<p><b>Lieutenant Colonel Loria, Christopher J.</b></p><p>Flight Hours: 0</p><p></p>",0
-1996,#74D055FF,251,"Tani, Daniel M.","<p><b> Tani, Daniel M.</b></p><p>Flight Hours: 318</p><p></p>",17.832554500127006
-1996,#74D055FF,252,"Clark, Laurel B.","<p><b>Commander Clark, Laurel B.</b></p><p>Flight Hours: 382</p><p></p>",19.544820285692065
-1996,#74D055FF,253,"Burbank, Daniel C.","<p><b>Commander Burbank, Daniel C.</b></p><p>Flight Hours: 552</p><p></p>",23.49468024894146
-1996,#74D055FF,254,"McCool, William C.","<p><b>Commander McCool, William C.</b></p><p>Flight Hours: 382</p><p></p>",19.544820285692065
-1996,#74D055FF,255,"Frick, Stephen N.","<p><b>Commander Frick, Stephen N.</b></p><p>Flight Hours: 565</p><p></p>",23.769728648009426
-1996,#74D055FF,256,"Hobaugh, Charles O.","<p><b>Lieutenant Colonel Hobaugh, Charles O.</b></p><p>Flight Hours: 876</p><p></p>",29.597297173897484
-1996,#74D055FF,257,"Massimino, Michael J.","<p><b> Massimino, Michael J.</b></p><p>Flight Hours: 571</p><p></p>",23.895606290697042
-1996,#74D055FF,258,"Walheim, Rex J.","<p><b>Lieutenant Colonel Walheim, Rex J.</b></p><p>Flight Hours: 565</p><p></p>",23.769728648009426
-1996,#74D055FF,259,"Stefanyshyn-Piper, Heidemarie M.","<p><b>Commander Stefanyshyn-Piper, Heidemarie M.</b></p><p>Flight Hours: 648</p><p></p>",25.45584412271571
-1996,#74D055FF,260,"Nowak, Lisa M.","<p><b>Commander Nowak, Lisa M.</b></p><p>Flight Hours: 306</p><p></p>",17.4928556845359
-1996,#74D055FF,261,"Kelly, Mark E.","<p><b>Commander Kelly, Mark E.</b></p><p>Flight Hours: 912</p><p></p>",30.199337741083
-1996,#74D055FF,262,"Kelly, Scott J.","<p><b>Commander Kelly, Scott J.</b></p><p>Flight Hours: 4320</p><p></p>",65.72670690061993
-1996,#74D055FF,263,"Kelly, James M.","<p><b>Lieutenant Colonel Kelly, James M.</b></p><p>Flight Hours: 641</p><p></p>",25.317977802344327
-1996,#74D055FF,264,"Richards, Paul W.","<p><b> Richards, Paul W.</b></p><p>Flight Hours: 307</p><p></p>",17.52141546793523
-1996,#74D055FF,265,"Higginbotham, Joan E.","<p><b> Higginbotham, Joan E.</b></p><p>Flight Hours: 308</p><p></p>",17.549928774784245
-1996,#74D055FF,266,"Magnus, Sandra H.","<p><b> Magnus, Sandra H.</b></p><p>Flight Hours: NA</p><p></p>",0
-1996,#74D055FF,267,"Wilson, Stephanie D.","<p><b> Wilson, Stephanie D.</b></p><p>Flight Hours: 1008</p><p></p>",31.74901573277509
-1996,#74D055FF,268,"Fincke, E. Michael","<p><b>Lieutenant Colonel Fincke, E. Michael</b></p><p>Flight Hours: 9159</p><p></p>",95.702664539708607
-1998,#94D840FF,269,"Morgan, Barbara R.","<p><b> Morgan, Barbara R.</b></p><p>Flight Hours: 305</p><p></p>",17.46424919657298
-1998,#94D840FF,270,"Johnson, Gregory C.","<p><b>US naval Reserve Johnson, Gregory C.</b></p><p>Flight Hours: 309</p><p></p>",17.578395831246947
-1998,#94D840FF,271,"Foreman, Michael J.","<p><b>Captain Foreman, Michael J.</b></p><p>Flight Hours: 637</p><p></p>",25.238858928247925
-1998,#94D840FF,272,"Fossum, Michael E.","<p><b>US Naval Reserve Fossum, Michael E.</b></p><p>Flight Hours: 636</p><p></p>",25.219040425836983
-1998,#94D840FF,273,"Anderson, Clayton C.","<p><b> Anderson, Clayton C.</b></p><p>Flight Hours: 4046</p><p></p>",63.608175575157006
-1998,#94D840FF,274,"Creamer, Timothy J.","<p><b>Lieutenant Colonel Creamer, Timothy J.</b></p><p>Flight Hours: 3912</p><p></p>",62.545983084447556
-1998,#94D840FF,275,"Wheelock, Douglas H.","<p><b>Lieutenant Commander Wheelock, Douglas H.</b></p><p>Flight Hours: 4272</p><p></p>",65.36053855347276
-1998,#94D840FF,276,"Archambault, Lee J.","<p><b>Lieutenant Colonel Archambault, Lee J.</b></p><p>Flight Hours: 648</p><p></p>",25.45584412271571
-1998,#94D840FF,277,"Swanson, Steven R.","<p><b> Swanson, Steven R.</b></p><p>Flight Hours: 643</p><p></p>",25.357444666211933
-1998,#94D840FF,278,"Ferguson, Christopher J.","<p><b>Commander Ferguson, Christopher J.</b></p><p>Flight Hours: 672</p><p></p>",25.92296279363144
-1998,#94D840FF,279,"Poindexter, Alan G.","<p><b>Commander Poindexter, Alan G.</b></p><p>Flight Hours: 669</p><p></p>",25.865034312755125
-1998,#94D840FF,280,"Johnson, Gregory H.","<p><b>Lieutenant Colonel Johnson, Gregory H.</b></p><p>Flight Hours: 378</p><p></p>",19.44222209522358
-1998,#94D840FF,281,"Zamka, George D.","<p><b>Lieutenant Colonel Zamka, George D.</b></p><p>Flight Hours: 692</p><p></p>",26.30589287593181
-1998,#94D840FF,282,"Woodward, Neil W., III","<p><b>Commander Woodward, Neil W., III</b></p><p>Flight Hours: 0</p><p></p>",0
-1998,#94D840FF,283,"Chamitoff, Gregory E.","<p><b> Chamitoff, Gregory E.</b></p><p>Flight Hours: NA</p><p></p>",0
-1998,#94D840FF,284,"Robertson, Patricia Hilliard","<p><b> Robertson, Patricia Hilliard</b></p><p>Flight Hours: 0</p><p></p>",0
-1998,#94D840FF,285,"Melvin, Leland D.","<p><b> Melvin, Leland D.</b></p><p>Flight Hours: 565</p><p></p>",23.769728648009426
-1998,#94D840FF,286,"Patrick, Nicholas J. M.","<p><b> Patrick, Nicholas J. M.</b></p><p>Flight Hours: 638</p><p></p>",25.25866188063018
-1998,#94D840FF,287,"Ham, Kenneth T.","<p><b>Commander Ham, Kenneth T.</b></p><p>Flight Hours: 612</p><p></p>",24.73863375370596
-1998,#94D840FF,288,"Oefelein, William A.","<p><b>Commander Oefelein, William A.</b></p><p>Flight Hours: 308</p><p></p>",17.549928774784245
-1998,#94D840FF,289,"Love, Stanley G.","<p><b> Love, Stanley G.</b></p><p>Flight Hours: 306</p><p></p>",17.4928556845359
-1998,#94D840FF,290,"Williams, Sunita L.","<p><b>Commander Williams, Sunita L.</b></p><p>Flight Hours: 4680</p><p></p>",68.41052550594829
-1998,#94D840FF,291,"Olivas, John D.","<p><b> Olivas, John D.</b></p><p>Flight Hours: 668</p><p></p>",25.84569596664017
-1998,#94D840FF,292,"Reisman, Garrett E.","<p><b> Reisman, Garrett E.</b></p><p>Flight Hours: 2473</p><p></p>",49.72926703662542
-1998,#94D840FF,293,"Caldwell, Tracy E.","<p><b> Caldwell, Tracy E.</b></p><p>Flight Hours: 4529</p><p></p>",67.29784543356496
-2000,#B8DE29FF,294,"Barratt, Michael R.","<p><b> Barratt, Michael R.</b></p><p>Flight Hours: 5085</p><p></p>",71.30918594402827
-2000,#B8DE29FF,295,"Ford, Kevin A.","<p><b>Lieutenant Colonel Ford, Kevin A.</b></p><p>Flight Hours: 333</p><p></p>",18.24828759089466
-2000,#B8DE29FF,296,"Garan, Ronald J., Jr.","<p><b>Lieutenant Colonel Garan, Ronald J., Jr.</b></p><p>Flight Hours: 330</p><p></p>",18.16590212458495
-2000,#B8DE29FF,297,"Good, Michael T.","<p><b>Lieutenant Colonel Good, Michael T.</b></p><p>Flight Hours: 600</p><p></p>",24.49489742783178
-2000,#B8DE29FF,298,"Drew, Alvin B.","<p><b>Lieutenant Colonel Drew, Alvin B.</b></p><p>Flight Hours: 612</p><p></p>",24.73863375370596
-2000,#B8DE29FF,299,"Stott, Nicole P.","<p><b> Stott, Nicole P.</b></p><p>Flight Hours: 2491</p><p></p>",49.90991885387112
-2000,#B8DE29FF,300,"Wilmore, Barry E.","<p><b>Commander Wilmore, Barry E.</b></p><p>Flight Hours: 259</p><p></p>",16.09347693943108
-2000,#B8DE29FF,301,"Kopra, Timothy L.","<p><b>Lieutenant Colonel Kopra, Timothy L.</b></p><p>Flight Hours: 1464</p><p></p>",38.262252939417984
-2000,#B8DE29FF,302,"Bowen, Stephen G.","<p><b>Commander Bowen, Stephen G.</b></p><p>Flight Hours: 970</p><p></p>",31.144823004794873
-2000,#B8DE29FF,303,"Boe, Eric A.","<p><b>Lieutenant Colonel Boe, Eric A.</b></p><p>Flight Hours: 672</p><p></p>",25.92296279363144
-2000,#B8DE29FF,304,"Feustel, Andrew J.","<p><b> Feustel, Andrew J.</b></p><p>Flight Hours: 687</p><p></p>",26.210684844162312
-2000,#B8DE29FF,305,"Hurley, Douglas G.","<p><b>Lieutenant Colonel Hurley, Douglas G.</b></p><p>Flight Hours: 376</p><p></p>",19.390719429665317
-2000,#B8DE29FF,306,"Antonelli, Dominic A.","<p><b>Lieutenant Commander Antonelli, Dominic A.</b></p><p>Flight Hours: 579</p><p></p>",24.06241883103193
-2000,#B8DE29FF,307,"Virts, Terry W., Jr.","<p><b>2nd Lieutenant Virts, Terry W., Jr.</b></p><p>Flight Hours: 330</p><p></p>",18.16590212458495
-2000,#B8DE29FF,308,"Nyberg, Karen L.","<p><b> Nyberg, Karen L.</b></p><p>Flight Hours: 330</p><p></p>",18.16590212458495
-2000,#B8DE29FF,309,"Behnken, Robert L.","<p><b>Major Behnken, Robert L.</b></p><p>Flight Hours: 708</p><p></p>",26.60826939130014
-2000,#B8DE29FF,310,"McArthur, K. Megan","<p><b> McArthur, K. Megan</b></p><p>Flight Hours: 309</p><p></p>",17.578395831246947
-2004,#DCE318FF,311,"Marshburn, Thomas H.","<p><b>Major Marshburn, Thomas H.</b></p><p>Flight Hours: 376</p><p></p>",19.390719429665317
-2004,#DCE318FF,312,"Hernandez, Jose M.","<p><b> Hernandez, Jose M.</b></p><p>Flight Hours: 332</p><p></p>",18.2208671582886
-2004,#DCE318FF,313,"Arnold, Richard R., II","<p><b> Arnold, Richard R., II</b></p><p>Flight Hours: 307</p><p></p>",17.52141546793523
-2004,#DCE318FF,314,"Walker, Shannon","<p><b> Walker, Shannon</b></p><p>Flight Hours: NA</p><p></p>",0
-2004,#DCE318FF,315,"Satcher, Robert L.","<p><b> Satcher, Robert L.</b></p><p>Flight Hours: 259</p><p></p>",16.09347693943108
-2004,#DCE318FF,316,"Acaba, Joseph M.","<p><b> Acaba, Joseph M.</b></p><p>Flight Hours: 307</p><p></p>",17.52141546793523
-2004,#DCE318FF,317,"Kimbrough, Robert S.","<p><b>Major Kimbrough, Robert S.</b></p><p>Flight Hours: 380</p><p></p>",19.493588689617926
-2004,#DCE318FF,318,"Bresnik, Randolph J.","<p><b>Major Bresnik, Randolph J.</b></p><p>Flight Hours: 259</p><p></p>",16.09347693943108
-2004,#DCE318FF,319,"Dutton, James P.","<p><b>Major Dutton, James P.</b></p><p>Flight Hours: 362</p><p></p>",19.026297590440446
-2004,#DCE318FF,320,"Cassidy, Christopher J.","<p><b>Lieutenant Commander Cassidy, Christopher J.</b></p><p>Flight Hours: 376</p><p></p>",19.390719429665317
-2004,#DCE318FF,321,"Metcalf-Lindenburger, Dorothy M.","<p><b> Metcalf-Lindenburger, Dorothy M.</b></p><p>Flight Hours: 362</p><p></p>",19.026297590440446
-2009,#FDE725FF,322,"Tingle, Scott D.","<p><b>Naval Officer Tingle, Scott D.</b></p><p>Flight Hours: 0</p><p></p>",0
-2009,#FDE725FF,323,"Vande Hei, Mark T.","<p><b>2nd Lieutenant Vande Hei, Mark T.</b></p><p>Flight Hours: 0</p><p></p>",0
-2009,#FDE725FF,324,"Hopkins, Michael S.","<p><b>2nd Lieutenant US Air Force Hopkins, Michael S.</b></p><p>Flight Hours: 0</p><p></p>",0
-2009,#FDE725FF,325,"Saint-Jacques, David","<p><b> Saint-Jacques, David</b></p><p>Flight Hours: 0</p><p></p>",0
-2009,#FDE725FF,326,"Epps, Jeanette J.","<p><b> Epps, Jeanette J.</b></p><p>Flight Hours: 0</p><p></p>",0
-2009,#FDE725FF,327,"Lindgren, Kjell N.","<p><b>US Air Force Lindgren, Kjell N.</b></p><p>Flight Hours: 0</p><p></p>",0
-2009,#FDE725FF,328,"Fischer, Jack D.","<p><b>US Air Force Fischer, Jack D.</b></p><p>Flight Hours: 0</p><p></p>",0
-2009,#FDE725FF,329,"Wiseman, Gregory R.","<p><b> Wiseman, Gregory R.</b></p><p>Flight Hours: 0</p><p></p>",0
-2009,#FDE725FF,330,"Hansen, Jeremy","<p><b> Hansen, Jeremy</b></p><p>Flight Hours: 0</p><p></p>",0
-2009,#FDE725FF,331,"Aunon, Serena M.","<p><b> Aunon, Serena M.</b></p><p>Flight Hours: 0</p><p></p>",0
-2009,#FDE725FF,332,"Rubins, Kathleen","<p><b> Rubins, Kathleen</b></p><p>Flight Hours: 0</p><p></p>",0
-2009,#FDE725FF,333,"Kanai, Norishige","<p><b> Kanai, Norishige</b></p><p>Flight Hours: 0</p><p></p>",0
-2009,#FDE725FF,334,"Onishi, Tayuka","<p><b> Onishi, Tayuka</b></p><p>Flight Hours: 0</p><p></p>",0
-2009,#FDE725FF,335,"Yui, Kimiya","<p><b> Yui, Kimiya</b></p><p>Flight Hours: NA</p><p></p>",0
+1959,#440154FF,1,"Glenn, John H., Jr.","  <p><b>Colonel US Marine Corps Glenn, John H., Jr.</b></p>
+  <p>DoB: 1921-07-18</p>
+  <p>Selected in: 1959 (at 38)</p>
+  <p>Flight Hours: 217</p>
+  <p># Flights: 2</p>",14.730919862656235
+1959,#440154FF,2,"Schirra, Walter M., Jr.","  <p><b>Captain Schirra, Walter M., Jr.</b></p>
+  <p>DoB: 1923-03-12</p>
+  <p>Selected in: 1959 (at 36)</p>
+  <p>Flight Hours: 295</p>
+  <p># Flights: 3</p>",17.175564037317667
+1959,#440154FF,3,"Shepard, Alan B., Jr.","  <p><b>Rear Admiral Shepard, Alan B., Jr.</b></p>
+  <p>DoB: 1923-11-18</p>
+  <p>Selected in: 1959 (at 36)</p>
+  <p>Flight Hours: 216</p>
+  <p># Flights: 2</p>",14.696938456699069
+1959,#440154FF,4,"Slayton, Donald K.","  <p><b>Major Slayton, Donald K.</b></p>
+  <p>DoB: 1924-03-01</p>
+  <p>Selected in: 1959 (at 35)</p>
+  <p>Flight Hours: 217</p>
+  <p># Flights: 1</p>",14.730919862656235
+1959,#440154FF,5,"Carpenter, M. Scott","  <p><b>Commander Carpenter, M. Scott</b></p>
+  <p>DoB: 1925-05-01</p>
+  <p>Selected in: 1959 (at 34)</p>
+  <p>Flight Hours: 4</p>
+  <p># Flights: 1</p>",2
+1959,#440154FF,6,"Grissom, Virgil I.","  <p><b>Lieutenant Colonel Grissom, Virgil I.</b></p>
+  <p>DoB: 1926-04-03</p>
+  <p>Selected in: 1959 (at 33)</p>
+  <p>Flight Hours: 5</p>
+  <p># Flights: 2</p>",2.23606797749979
+1959,#440154FF,7,"Cooper, L. Gordon, Jr.","  <p><b>Colonel Cooper, L. Gordon, Jr.</b></p>
+  <p>DoB: 1927-03-06</p>
+  <p>Selected in: 1959 (at 32)</p>
+  <p>Flight Hours: 225</p>
+  <p># Flights: 2</p>",15
+1962,#481568FF,8,"See, Elliot M., Jr.","  <p><b> See, Elliot M., Jr.</b></p>
+  <p>DoB: 1927-07-23</p>
+  <p>Selected in: 1962 (at 35)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1962,#481568FF,9,"Borman, Frank","  <p><b>Colonel Borman, Frank</b></p>
+  <p>DoB: 1928-03-14</p>
+  <p>Selected in: 1962 (at 34)</p>
+  <p>Flight Hours: 477</p>
+  <p># Flights: 2</p>",21.840329667841555
+1962,#481568FF,10,"Lovell, James A., Jr.","  <p><b>Captain Lovell, James A., Jr.</b></p>
+  <p>DoB: 1928-03-25</p>
+  <p>Selected in: 1962 (at 34)</p>
+  <p>Flight Hours: 715</p>
+  <p># Flights: 4</p>",26.739483914241877
+1962,#481568FF,11,"McDivitt, James A.","  <p><b>Brigadier General McDivitt, James A.</b></p>
+  <p>DoB: 1929-06-10</p>
+  <p>Selected in: 1962 (at 33)</p>
+  <p>Flight Hours: 338</p>
+  <p># Flights: 2</p>",18.384776310850235
+1962,#481568FF,12,"Conrad, Charles, Jr.","  <p><b>Captain Conrad, Charles, Jr.</b></p>
+  <p>DoB: 1930-05-02</p>
+  <p>Selected in: 1962 (at 32)</p>
+  <p>Flight Hours: 1179</p>
+  <p># Flights: 4</p>",34.336569426778794
+1962,#481568FF,13,"Armstrong, Neil A.","  <p><b> Armstrong, Neil A.</b></p>
+  <p>DoB: 1930-08-05</p>
+  <p>Selected in: 1962 (at 32)</p>
+  <p>Flight Hours: 205</p>
+  <p># Flights: 2</p>",14.317821063276353
+1962,#481568FF,14,"Stafford, Thomas P.","  <p><b>Lieutenant General Stafford, Thomas P.</b></p>
+  <p>DoB: 1930-09-17</p>
+  <p>Selected in: 1962 (at 32)</p>
+  <p>Flight Hours: 507</p>
+  <p># Flights: 4</p>",22.516660498395403
+1962,#481568FF,15,"Young, John W.","  <p><b>Captain Young, John W.</b></p>
+  <p>DoB: 1930-09-24</p>
+  <p>Selected in: 1962 (at 32)</p>
+  <p>Flight Hours: 835</p>
+  <p># Flights: 6</p>",28.89636655359978
+1962,#481568FF,16,"White, Edward H., II","  <p><b>Lieutenant Colonel White, Edward H., II</b></p>
+  <p>DoB: 1930-11-14</p>
+  <p>Selected in: 1962 (at 32)</p>
+  <p>Flight Hours: 97</p>
+  <p># Flights: 1</p>",9.848857801796104
+1963,#482677FF,17,"Gordon, Richard F., Jr.","  <p><b>Captain Gordon, Richard F., Jr.</b></p>
+  <p>DoB: 1929-10-05</p>
+  <p>Selected in: 1963 (at 34)</p>
+  <p>Flight Hours: 315</p>
+  <p># Flights: 2</p>",17.74823934929885
+1963,#482677FF,18,"Aldrin, Buzz","  <p><b>Colonel Aldrin, Buzz</b></p>
+  <p>DoB: 1930-01-20</p>
+  <p>Selected in: 1963 (at 33)</p>
+  <p>Flight Hours: 289</p>
+  <p># Flights: 2</p>",17
+1963,#482677FF,19,"Freeman, Theodore C.","  <p><b>Captain Freeman, Theodore C.</b></p>
+  <p>DoB: 1930-02-18</p>
+  <p>Selected in: 1963 (at 33)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1963,#482677FF,20,"Eisele, Donn F.","  <p><b>Colonel Eisele, Donn F.</b></p>
+  <p>DoB: 1930-05-23</p>
+  <p>Selected in: 1963 (at 33)</p>
+  <p>Flight Hours: 260</p>
+  <p># Flights: 1</p>",16.1245154965971
+1963,#482677FF,21,"Collins, Michael","  <p><b>US Air Force Reserve Collins, Michael</b></p>
+  <p>DoB: 1930-10-31</p>
+  <p>Selected in: 1963 (at 33)</p>
+  <p>Flight Hours: 266</p>
+  <p># Flights: 2</p>",16.30950643030009
+1963,#482677FF,22,"Bassett, Charles A., II","  <p><b>Captain Bassett, Charles A., II</b></p>
+  <p>DoB: 1931-12-30</p>
+  <p>Selected in: 1963 (at 32)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1963,#482677FF,23,"Bean, Alan L.","  <p><b>Captain Bean, Alan L.</b></p>
+  <p>DoB: 1932-03-15</p>
+  <p>Selected in: 1963 (at 31)</p>
+  <p>Flight Hours: 1671</p>
+  <p># Flights: 2</p>",40.87786687193939
+1963,#482677FF,24,"Cunningham, Walter","  <p><b>Colonel Cunningham, Walter</b></p>
+  <p>DoB: 1932-03-16</p>
+  <p>Selected in: 1963 (at 31)</p>
+  <p>Flight Hours: 263</p>
+  <p># Flights: 1</p>",16.217274740226856
+1963,#482677FF,25,"Scott, David R.","  <p><b>Colonel Scott, David R.</b></p>
+  <p>DoB: 1932-06-06</p>
+  <p>Selected in: 1963 (at 31)</p>
+  <p>Flight Hours: 546</p>
+  <p># Flights: 3</p>",23.366642891095847
+1963,#482677FF,26,"Williams, Clifton C., Jr.","  <p><b>Major Williams, Clifton C., Jr.</b></p>
+  <p>DoB: 1932-09-26</p>
+  <p>Selected in: 1963 (at 31)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1963,#482677FF,27,"Anders, William A.","  <p><b>US Air Force Reserve Anders, William A.</b></p>
+  <p>DoB: 1933-10-17</p>
+  <p>Selected in: 1963 (at 30)</p>
+  <p>Flight Hours: 147</p>
+  <p># Flights: 1</p>",12.12435565298214
+1963,#482677FF,28,"Cernan, Eugene A.","  <p><b>Captain Cernan, Eugene A.</b></p>
+  <p>DoB: 1934-03-14</p>
+  <p>Selected in: 1963 (at 29)</p>
+  <p>Flight Hours: 566</p>
+  <p># Flights: 3</p>",23.790754506740637
+1963,#482677FF,29,"Chaffee, Roger B.","  <p><b>Lieutenant Commander Chaffee, Roger B.</b></p>
+  <p>DoB: 1935-02-15</p>
+  <p>Selected in: 1963 (at 28)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1963,#482677FF,30,"Schweickart, Russell L.","  <p><b> Schweickart, Russell L.</b></p>
+  <p>DoB: 1935-10-25</p>
+  <p>Selected in: 1963 (at 28)</p>
+  <p>Flight Hours: 241</p>
+  <p># Flights: 1</p>",15.524174696260024
+1965,#453781FF,31,"Garriott, Owen K.","  <p><b> Garriott, Owen K.</b></p>
+  <p>DoB: 1930-11-22</p>
+  <p>Selected in: 1965 (at 35)</p>
+  <p>Flight Hours: 1674</p>
+  <p># Flights: 2</p>",40.91454509095757
+1965,#453781FF,32,"Graveline, Duane E.","  <p><b> Graveline, Duane E.</b></p>
+  <p>DoB: 1931-03-02</p>
+  <p>Selected in: 1965 (at 34)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1965,#453781FF,33,"Kerwin, Joseph P.","  <p><b>Captain Kerwin, Joseph P.</b></p>
+  <p>DoB: 1932-02-19</p>
+  <p>Selected in: 1965 (at 33)</p>
+  <p>Flight Hours: 672</p>
+  <p># Flights: 1</p>",25.92296279363144
+1965,#453781FF,34,"Michel, F. Curtis","  <p><b> Michel, F. Curtis</b></p>
+  <p>DoB: 1934-06-05</p>
+  <p>Selected in: 1965 (at 31)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1965,#453781FF,35,"Schmitt, Harrison H.","  <p><b> Schmitt, Harrison H.</b></p>
+  <p>DoB: 1935-07-03</p>
+  <p>Selected in: 1965 (at 30)</p>
+  <p>Flight Hours: 301</p>
+  <p># Flights: 1</p>",17.349351572897472
+1965,#453781FF,36,"Gibson, Edward G.","  <p><b> Gibson, Edward G.</b></p>
+  <p>DoB: 1936-11-08</p>
+  <p>Selected in: 1965 (at 29)</p>
+  <p>Flight Hours: 2017</p>
+  <p># Flights: 1</p>",44.91102314577124
+1966,#3F4788FF,37,"Givens, Edward G., Jr.","  <p><b>Major Givens, Edward G., Jr.</b></p>
+  <p>DoB: 1930-01-05</p>
+  <p>Selected in: 1966 (at 36)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1966,#3F4788FF,38,"Pogue, William R.","  <p><b>Colonel Pogue, William R.</b></p>
+  <p>DoB: 1930-01-23</p>
+  <p>Selected in: 1966 (at 36)</p>
+  <p>Flight Hours: 2017</p>
+  <p># Flights: 1</p>",44.91102314577124
+1966,#3F4788FF,39,"Irwin, James B.","  <p><b>Colonel Irwin, James B.</b></p>
+  <p>DoB: 1930-03-17</p>
+  <p>Selected in: 1966 (at 36)</p>
+  <p>Flight Hours: 295</p>
+  <p># Flights: 1</p>",17.175564037317667
+1966,#3F4788FF,40,"Lind, Don L.","  <p><b> Lind, Don L.</b></p>
+  <p>DoB: 1930-05-18</p>
+  <p>Selected in: 1966 (at 36)</p>
+  <p>Flight Hours: 168</p>
+  <p># Flights: 1</p>",12.96148139681572
+1966,#3F4788FF,41,"Mitchell, Edgar D.","  <p><b>Captain Mitchell, Edgar D.</b></p>
+  <p>DoB: 1930-09-17</p>
+  <p>Selected in: 1966 (at 36)</p>
+  <p>Flight Hours: 216</p>
+  <p># Flights: 1</p>",14.696938456699069
+1966,#3F4788FF,42,"Brand, Vance D.","  <p><b> Brand, Vance D.</b></p>
+  <p>DoB: 1931-05-09</p>
+  <p>Selected in: 1966 (at 35)</p>
+  <p>Flight Hours: 746</p>
+  <p># Flights: 4</p>",27.313000567495326
+1966,#3F4788FF,43,"Swigert, John L., Jr.","  <p><b> Swigert, John L., Jr.</b></p>
+  <p>DoB: 1931-08-30</p>
+  <p>Selected in: 1966 (at 35)</p>
+  <p>Flight Hours: 142</p>
+  <p># Flights: 1</p>",11.916375287812984
+1966,#3F4788FF,44,"Worden, Alfred M.","  <p><b>Colonel Worden, Alfred M.</b></p>
+  <p>DoB: 1932-02-07</p>
+  <p>Selected in: 1966 (at 34)</p>
+  <p>Flight Hours: 295</p>
+  <p># Flights: 1</p>",17.175564037317667
+1966,#3F4788FF,45,"Weitz, Paul J.","  <p><b>Captain Weitz, Paul J.</b></p>
+  <p>DoB: 1932-06-25</p>
+  <p>Selected in: 1966 (at 34)</p>
+  <p>Flight Hours: 793</p>
+  <p># Flights: 2</p>",28.160255680657446
+1966,#3F4788FF,46,"Carr, Gerald P.","  <p><b>Colonel Carr, Gerald P.</b></p>
+  <p>DoB: 1932-08-22</p>
+  <p>Selected in: 1966 (at 34)</p>
+  <p>Flight Hours: 2017</p>
+  <p># Flights: 1</p>",44.91102314577124
+1966,#3F4788FF,47,"Engle, Joe H.","  <p><b>Major General Engle, Joe H.</b></p>
+  <p>DoB: 1932-08-26</p>
+  <p>Selected in: 1966 (at 34)</p>
+  <p>Flight Hours: 224</p>
+  <p># Flights: 2</p>",14.966629547095765
+1966,#3F4788FF,48,"Roosa, Stuart A.","  <p><b>Colonel Roosa, Stuart A.</b></p>
+  <p>DoB: 1933-08-16</p>
+  <p>Selected in: 1966 (at 33)</p>
+  <p>Flight Hours: 216</p>
+  <p># Flights: 1</p>",14.696938456699069
+1966,#3F4788FF,49,"Evans, Ronald E.","  <p><b>Captain Evans, Ronald E.</b></p>
+  <p>DoB: 1933-11-10</p>
+  <p>Selected in: 1966 (at 33)</p>
+  <p>Flight Hours: 301</p>
+  <p># Flights: 1</p>",17.349351572897472
+1966,#3F4788FF,50,"Haise, Fred W., Jr.","  <p><b> Haise, Fred W., Jr.</b></p>
+  <p>DoB: 1933-11-14</p>
+  <p>Selected in: 1966 (at 33)</p>
+  <p>Flight Hours: 142</p>
+  <p># Flights: 1</p>",11.916375287812984
+1966,#3F4788FF,51,"Bull, John S.","  <p><b> Bull, John S.</b></p>
+  <p>DoB: 1934-09-25</p>
+  <p>Selected in: 1966 (at 32)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1966,#3F4788FF,52,"Duke, Charles M., Jr.","  <p><b>Brigadier General Duke, Charles M., Jr.</b></p>
+  <p>DoB: 1935-10-03</p>
+  <p>Selected in: 1966 (at 31)</p>
+  <p>Flight Hours: 265</p>
+  <p># Flights: 1</p>",16.278820596099706
+1966,#3F4788FF,53,"Lousma, Jack R.","  <p><b>Colonel Lousma, Jack R.</b></p>
+  <p>DoB: 1936-02-29</p>
+  <p>Selected in: 1966 (at 30)</p>
+  <p>Flight Hours: 1619</p>
+  <p># Flights: 2</p>",40.23679907746142
+1966,#3F4788FF,54,"Mattingly, Thomas K., II","  <p><b>Rear Admiral US Navy Mattingly, Thomas K., II</b></p>
+  <p>DoB: 1936-03-17</p>
+  <p>Selected in: 1966 (at 30)</p>
+  <p>Flight Hours: 504</p>
+  <p># Flights: 3</p>",22.44994432064365
+1966,#3F4788FF,55,"McCandless, Bruce, II","  <p><b>Captain McCandless, Bruce, II</b></p>
+  <p>DoB: 1937-06-08</p>
+  <p>Selected in: 1966 (at 29)</p>
+  <p>Flight Hours: 312</p>
+  <p># Flights: 2</p>",17.663521732655695
+1967,#39558CFF,56,"Henize, Karl G.","  <p><b> Henize, Karl G.</b></p>
+  <p>DoB: 1926-10-17</p>
+  <p>Selected in: 1967 (at 41)</p>
+  <p>Flight Hours: 188</p>
+  <p># Flights: 1</p>",13.711309200802088
+1967,#39558CFF,57,"Thornton, William E.","  <p><b> Thornton, William E.</b></p>
+  <p>DoB: 1929-04-14</p>
+  <p>Selected in: 1967 (at 38)</p>
+  <p>Flight Hours: 313</p>
+  <p># Flights: 2</p>",17.69180601295413
+1967,#39558CFF,58,"Llewellyn, John A.","  <p><b> Llewellyn, John A.</b></p>
+  <p>DoB: 1933-04-22</p>
+  <p>Selected in: 1967 (at 34)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1967,#39558CFF,59,"Chapman, Philip K.","  <p><b> Chapman, Philip K.</b></p>
+  <p>DoB: 1935-03-05</p>
+  <p>Selected in: 1967 (at 32)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1967,#39558CFF,60,"Musgrave, Story","  <p><b> Musgrave, Story</b></p>
+  <p>DoB: 1935-08-19</p>
+  <p>Selected in: 1967 (at 32)</p>
+  <p>Flight Hours: 1281</p>
+  <p># Flights: 6</p>",35.79106033634656
+1967,#39558CFF,61,"Parker, Robert A. R.","  <p><b> Parker, Robert A. R.</b></p>
+  <p>DoB: 1936-12-14</p>
+  <p>Selected in: 1967 (at 31)</p>
+  <p>Flight Hours: 462</p>
+  <p># Flights: 2</p>",21.494185260204677
+1967,#39558CFF,62,"Allen, Joseph P.","  <p><b> Allen, Joseph P.</b></p>
+  <p>DoB: 1937-06-27</p>
+  <p>Selected in: 1967 (at 30)</p>
+  <p>Flight Hours: 313</p>
+  <p># Flights: 2</p>",17.69180601295413
+1967,#39558CFF,63,"Lenoir, William B.","  <p><b> Lenoir, William B.</b></p>
+  <p>DoB: 1939-03-14</p>
+  <p>Selected in: 1967 (at 28)</p>
+  <p>Flight Hours: 122</p>
+  <p># Flights: 1</p>",11.045361017187261
+1967,#39558CFF,64,"Holmquest, Donald L.","  <p><b> Holmquest, Donald L.</b></p>
+  <p>DoB: 1939-04-07</p>
+  <p>Selected in: 1967 (at 28)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1967,#39558CFF,65,"O'Leary, Brian T.","  <p><b> O'Leary, Brian T.</b></p>
+  <p>DoB: 1940-01-27</p>
+  <p>Selected in: 1967 (at 27)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1967,#39558CFF,66,"England, Anthony W.","  <p><b> England, Anthony W.</b></p>
+  <p>DoB: 1942-05-15</p>
+  <p>Selected in: 1967 (at 25)</p>
+  <p>Flight Hours: 190</p>
+  <p># Flights: 1</p>",13.784048752090222
+1969,#32648EFF,67,"Peterson, Donald H.","  <p><b>Colonel Peterson, Donald H.</b></p>
+  <p>DoB: 1933-10-22</p>
+  <p>Selected in: 1969 (at 36)</p>
+  <p>Flight Hours: 120</p>
+  <p># Flights: 1</p>",10.954451150103322
+1969,#32648EFF,68,"Hartsfield, Henry W., Jr.","  <p><b>Colonel Hartsfield, Henry W., Jr.</b></p>
+  <p>DoB: 1933-11-21</p>
+  <p>Selected in: 1969 (at 36)</p>
+  <p>Flight Hours: 482</p>
+  <p># Flights: 3</p>",21.95449840010015
+1969,#32648EFF,69,"Overmyer, Robert F.","  <p><b>Colonel Overmyer, Robert F.</b></p>
+  <p>DoB: 1936-07-14</p>
+  <p>Selected in: 1969 (at 33)</p>
+  <p>Flight Hours: 290</p>
+  <p># Flights: 2</p>",17.029386365926403
+1969,#32648EFF,70,"Fullerton, Charles G.","  <p><b>US Air Force (Retired) Fullerton, Charles G.</b></p>
+  <p>DoB: 1936-10-11</p>
+  <p>Selected in: 1969 (at 33)</p>
+  <p>Flight Hours: 382</p>
+  <p># Flights: 2</p>",19.544820285692065
+1969,#32648EFF,71,"Crippen, Robert L.","  <p><b>Captain Crippen, Robert L.</b></p>
+  <p>DoB: 1937-09-11</p>
+  <p>Selected in: 1969 (at 32)</p>
+  <p>Flight Hours: 565</p>
+  <p># Flights: 4</p>",23.769728648009426
+1969,#32648EFF,72,"Truly, Richard H.","  <p><b>Vice Admiral Truly, Richard H.</b></p>
+  <p>DoB: 1937-11-12</p>
+  <p>Selected in: 1969 (at 32)</p>
+  <p>Flight Hours: 199</p>
+  <p># Flights: 2</p>",14.106735979665885
+1969,#32648EFF,73,"Bobko, Karol J.","  <p><b>Colonel Bobko, Karol J.</b></p>
+  <p>DoB: 1937-12-23</p>
+  <p>Selected in: 1969 (at 32)</p>
+  <p>Flight Hours: 386</p>
+  <p># Flights: 3</p>",19.6468827043885
+1978,#2D718EFF,74,"Fabian, John M.","  <p><b>Colonel Fabian, John M.</b></p>
+  <p>DoB: 1939-01-28</p>
+  <p>Selected in: 1978 (at 39)</p>
+  <p>Flight Hours: 316</p>
+  <p># Flights: 2</p>",17.776388834631177
+1978,#2D718EFF,75,"Scobee, Francis R.","  <p><b>Major Scobee, Francis R.</b></p>
+  <p>DoB: 1939-05-19</p>
+  <p>Selected in: 1978 (at 39)</p>
+  <p>Flight Hours: 168</p>
+  <p># Flights: 1</p>",12.96148139681572
+1978,#2D718EFF,76,"Griggs, S. David","  <p><b> Griggs, S. David</b></p>
+  <p>DoB: 1939-09-07</p>
+  <p>Selected in: 1978 (at 39)</p>
+  <p>Flight Hours: 167</p>
+  <p># Flights: 1</p>",12.922847983320086
+1978,#2D718EFF,77,"Gregory, Frederick D.","  <p><b>Colonel Gregory, Frederick D.</b></p>
+  <p>DoB: 1941-01-07</p>
+  <p>Selected in: 1978 (at 37)</p>
+  <p>Flight Hours: 455</p>
+  <p># Flights: 3</p>",21.330729007701542
+1978,#2D718EFF,78,"Hauck, Frederick H.","  <p><b>Captain Hauck, Frederick H.</b></p>
+  <p>DoB: 1941-04-11</p>
+  <p>Selected in: 1978 (at 37)</p>
+  <p>Flight Hours: 436</p>
+  <p># Flights: 3</p>",20.8806130178211
+1978,#2D718EFF,79,"Williams, Donald E.","  <p><b>Captain Williams, Donald E.</b></p>
+  <p>DoB: 1942-02-13</p>
+  <p>Selected in: 1978 (at 36)</p>
+  <p>Flight Hours: 287</p>
+  <p># Flights: 2</p>",16.941074346097416
+1978,#2D718EFF,80,"Stewart, Robert L.","  <p><b>Brigadier General Stewart, Robert L.</b></p>
+  <p>DoB: 1942-08-13</p>
+  <p>Selected in: 1978 (at 36)</p>
+  <p>Flight Hours: 289</p>
+  <p># Flights: 2</p>",17
+1978,#2D718EFF,81,"Bluford, Guion S., Jr.","  <p><b>Colonel Bluford, Guion S., Jr.</b></p>
+  <p>DoB: 1942-11-22</p>
+  <p>Selected in: 1978 (at 36)</p>
+  <p>Flight Hours: 688</p>
+  <p># Flights: 4</p>",26.229754097208
+1978,#2D718EFF,82,"Lucid, Shannon W.","  <p><b> Lucid, Shannon W.</b></p>
+  <p>DoB: 1943-01-14</p>
+  <p>Selected in: 1978 (at 35)</p>
+  <p>Flight Hours: 5354</p>
+  <p># Flights: 5</p>",73.17103251970687
+1978,#2D718EFF,83,"Brandenstein, Daniel C.","  <p><b>Captain Brandenstein, Daniel C.</b></p>
+  <p>DoB: 1943-01-17</p>
+  <p>Selected in: 1978 (at 35)</p>
+  <p>Flight Hours: 789</p>
+  <p># Flights: 4</p>",28.089143810376278
+1978,#2D718EFF,84,"Creighton, John O.","  <p><b>Captain Creighton, John O.</b></p>
+  <p>DoB: 1943-04-28</p>
+  <p>Selected in: 1978 (at 35)</p>
+  <p>Flight Hours: 404</p>
+  <p># Flights: 3</p>",20.09975124224178
+1978,#2D718EFF,85,"Thagard, Norman E.","  <p><b> Thagard, Norman E.</b></p>
+  <p>DoB: 1943-07-03</p>
+  <p>Selected in: 1978 (at 35)</p>
+  <p>Flight Hours: 3360</p>
+  <p># Flights: 5</p>",57.96550698475775
+1978,#2D718EFF,86,"McBride, Jon A.","  <p><b>Captain McBride, Jon A.</b></p>
+  <p>DoB: 1943-08-14</p>
+  <p>Selected in: 1978 (at 35)</p>
+  <p>Flight Hours: 197</p>
+  <p># Flights: 1</p>",14.035668847618199
+1978,#2D718EFF,87,"Walker, David M.","  <p><b>Captain Walker, David M.</b></p>
+  <p>DoB: 1944-05-20</p>
+  <p>Selected in: 1978 (at 34)</p>
+  <p>Flight Hours: 724</p>
+  <p># Flights: 4</p>",26.90724809414742
+1978,#2D718EFF,88,"Van Hoften, James D. A.","  <p><b> Van Hoften, James D. A.</b></p>
+  <p>DoB: 1944-06-11</p>
+  <p>Selected in: 1978 (at 34)</p>
+  <p>Flight Hours: 338</p>
+  <p># Flights: 2</p>",18.384776310850235
+1978,#2D718EFF,89,"Shriver, Loren J.","  <p><b>Colonel Shriver, Loren J.</b></p>
+  <p>DoB: 1944-09-23</p>
+  <p>Selected in: 1978 (at 34)</p>
+  <p>Flight Hours: 386</p>
+  <p># Flights: 3</p>",19.6468827043885
+1978,#2D718EFF,90,"Hoffman, Jeffrey A.","  <p><b> Hoffman, Jeffrey A.</b></p>
+  <p>DoB: 1944-11-02</p>
+  <p>Selected in: 1978 (at 34)</p>
+  <p>Flight Hours: 1211</p>
+  <p># Flights: 5</p>",34.79942528261063
+1978,#2D718EFF,91,"Shaw, Brewster H., Jr.","  <p><b>Colonel Shaw, Brewster H., Jr.</b></p>
+  <p>DoB: 1945-05-16</p>
+  <p>Selected in: 1978 (at 33)</p>
+  <p>Flight Hours: 533</p>
+  <p># Flights: 3</p>",23.08679276123039
+1978,#2D718EFF,92,"Buchli, James F.","  <p><b>Colonel Buchli, James F.</b></p>
+  <p>DoB: 1945-06-20</p>
+  <p>Selected in: 1978 (at 33)</p>
+  <p>Flight Hours: 490</p>
+  <p># Flights: 4</p>",22.135943621178654
+1978,#2D718EFF,93,"Mullane, Richard M.","  <p><b>Colonel Mullane, Richard M.</b></p>
+  <p>DoB: 1945-09-10</p>
+  <p>Selected in: 1978 (at 33)</p>
+  <p>Flight Hours: 356</p>
+  <p># Flights: 3</p>",18.867962264113206
+1978,#2D718EFF,94,"Coats, Michael L.","  <p><b>Captain Coats, Michael L.</b></p>
+  <p>DoB: 1946-01-16</p>
+  <p>Selected in: 1978 (at 32)</p>
+  <p>Flight Hours: 463</p>
+  <p># Flights: 3</p>",21.517434791350013
+1978,#2D718EFF,95,"Onizuka, Ellison S.","  <p><b>Lieutenant  Colonel Onizuka, Ellison S.</b></p>
+  <p>DoB: 1946-06-24</p>
+  <p>Selected in: 1978 (at 32)</p>
+  <p>Flight Hours: 73</p>
+  <p># Flights: 1</p>",8.54400374531753
+1978,#2D718EFF,96,"Covey, Richard O.","  <p><b>Colonel Covey, Richard O.</b></p>
+  <p>DoB: 1946-08-01</p>
+  <p>Selected in: 1978 (at 32)</p>
+  <p>Flight Hours: 645</p>
+  <p># Flights: 4</p>",25.39685019840059
+1978,#2D718EFF,97,"Hart, Terry J.","  <p><b> Hart, Terry J.</b></p>
+  <p>DoB: 1946-10-27</p>
+  <p>Selected in: 1978 (at 32)</p>
+  <p>Flight Hours: 167</p>
+  <p># Flights: 1</p>",12.922847983320086
+1978,#2D718EFF,98,"Nagel, Steven R.","  <p><b>Colonel Nagel, Steven R.</b></p>
+  <p>DoB: 1946-10-27</p>
+  <p>Selected in: 1978 (at 32)</p>
+  <p>Flight Hours: 723</p>
+  <p># Flights: 4</p>",26.888659319497503
+1978,#2D718EFF,99,"Gibson, Robert L.","  <p><b>Captain Gibson, Robert L.</b></p>
+  <p>DoB: 1946-10-30</p>
+  <p>Selected in: 1978 (at 32)</p>
+  <p>Flight Hours: 868</p>
+  <p># Flights: 5</p>",29.46183972531247
+1978,#2D718EFF,100,"Seddon, Margaret Rhea","  <p><b> Seddon, Margaret Rhea</b></p>
+  <p>DoB: 1947-11-08</p>
+  <p>Selected in: 1978 (at 31)</p>
+  <p>Flight Hours: 722</p>
+  <p># Flights: 3</p>",26.870057685088806
+1978,#2D718EFF,101,"Gardner, Dale A.","  <p><b>Captain Gardner, Dale A.</b></p>
+  <p>DoB: 1948-11-08</p>
+  <p>Selected in: 1978 (at 30)</p>
+  <p>Flight Hours: 336</p>
+  <p># Flights: 2</p>",18.33030277982336
+1978,#2D718EFF,102,"Resnik, Judith A.","  <p><b> Resnik, Judith A.</b></p>
+  <p>DoB: 1949-04-05</p>
+  <p>Selected in: 1978 (at 29)</p>
+  <p>Flight Hours: 144</p>
+  <p># Flights: 1</p>",12
+1978,#2D718EFF,103,"Fisher, Anna L.","  <p><b> Fisher, Anna L.</b></p>
+  <p>DoB: 1949-08-24</p>
+  <p>Selected in: 1978 (at 29)</p>
+  <p>Flight Hours: 191</p>
+  <p># Flights: 1</p>",13.820274961085254
+1978,#2D718EFF,104,"Nelson, George D.","  <p><b> Nelson, George D.</b></p>
+  <p>DoB: 1950-07-13</p>
+  <p>Selected in: 1978 (at 28)</p>
+  <p>Flight Hours: 411</p>
+  <p># Flights: 3</p>",20.273134932713294
+1978,#2D718EFF,105,"McNair, Ronald E.","  <p><b> McNair, Ronald E.</b></p>
+  <p>DoB: 1950-10-21</p>
+  <p>Selected in: 1978 (at 28)</p>
+  <p>Flight Hours: 191</p>
+  <p># Flights: 1</p>",13.820274961085254
+1978,#2D718EFF,106,"Ride, Sally K.","  <p><b> Ride, Sally K.</b></p>
+  <p>DoB: 1951-05-26</p>
+  <p>Selected in: 1978 (at 27)</p>
+  <p>Flight Hours: 343</p>
+  <p># Flights: 2</p>",18.520259177452136
+1978,#2D718EFF,107,"Sullivan, Kathryn D.","  <p><b> Sullivan, Kathryn D.</b></p>
+  <p>DoB: 1951-10-03</p>
+  <p>Selected in: 1978 (at 27)</p>
+  <p>Flight Hours: 532</p>
+  <p># Flights: 3</p>",23.065125189341593
+1978,#2D718EFF,108,"Hawley, Steven A.","  <p><b> Hawley, Steven A.</b></p>
+  <p>DoB: 1951-12-12</p>
+  <p>Selected in: 1978 (at 27)</p>
+  <p>Flight Hours: 770</p>
+  <p># Flights: 5</p>",27.748873851023216
+1980,#287D8EFF,109,"Springer, Robert C.","  <p><b>Colonel Springer, Robert C.</b></p>
+  <p>DoB: 1942-05-21</p>
+  <p>Selected in: 1980 (at 38)</p>
+  <p>Flight Hours: 237</p>
+  <p># Flights: 2</p>",15.394804318340652
+1980,#287D8EFF,110,"Blaha, John E.","  <p><b>Colonel Blaha, John E.</b></p>
+  <p>DoB: 1942-08-26</p>
+  <p>Selected in: 1980 (at 38)</p>
+  <p>Flight Hours: 3864</p>
+  <p># Flights: 5</p>",62.161081071680215
+1980,#287D8EFF,111,"Bridges, Roy D., Jr.","  <p><b>Major General Bridges, Roy D., Jr.</b></p>
+  <p>DoB: 1943-07-19</p>
+  <p>Selected in: 1980 (at 37)</p>
+  <p>Flight Hours: 190</p>
+  <p># Flights: 1</p>",13.784048752090222
+1980,#287D8EFF,112,"Spring, Sherwood C.","  <p><b>Colonel Spring, Sherwood C.</b></p>
+  <p>DoB: 1944-09-23</p>
+  <p>Selected in: 1980 (at 36)</p>
+  <p>Flight Hours: 165</p>
+  <p># Flights: 1</p>",12.84523257866513
+1980,#287D8EFF,113,"Smith, Michael J.","  <p><b>Captain Smith, Michael J.</b></p>
+  <p>DoB: 1945-04-30</p>
+  <p>Selected in: 1980 (at 35)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1980,#287D8EFF,114,"Grabe, Ronald J.","  <p><b>Colonel Grabe, Ronald J.</b></p>
+  <p>DoB: 1945-06-13</p>
+  <p>Selected in: 1980 (at 35)</p>
+  <p>Flight Hours: 627</p>
+  <p># Flights: 4</p>",25.03996805109783
+1980,#287D8EFF,115,"Fisher, William F.","  <p><b> Fisher, William F.</b></p>
+  <p>DoB: 1946-04-01</p>
+  <p>Selected in: 1980 (at 34)</p>
+  <p>Flight Hours: 170</p>
+  <p># Flights: 1</p>",13.038404810405298
+1980,#287D8EFF,116,"Lounge, John M.","  <p><b> Lounge, John M.</b></p>
+  <p>DoB: 1946-06-28</p>
+  <p>Selected in: 1980 (at 34)</p>
+  <p>Flight Hours: 482</p>
+  <p># Flights: 3</p>",21.95449840010015
+1980,#287D8EFF,117,"Bolden, Charles F., Jr.","  <p><b>Brigadier General Bolden, Charles F., Jr.</b></p>
+  <p>DoB: 1946-08-19</p>
+  <p>Selected in: 1980 (at 34)</p>
+  <p>Flight Hours: 680</p>
+  <p># Flights: 4</p>",26.076809620810597
+1980,#287D8EFF,118,"Richards, Richard N.","  <p><b>Captain Richards, Richard N.</b></p>
+  <p>DoB: 1946-08-24</p>
+  <p>Selected in: 1980 (at 34)</p>
+  <p>Flight Hours: 813</p>
+  <p># Flights: 4</p>",28.513154858766505
+1980,#287D8EFF,119,"O'Connor, Bryan D.","  <p><b>Colonel O'Connor, Bryan D.</b></p>
+  <p>DoB: 1946-09-06</p>
+  <p>Selected in: 1980 (at 34)</p>
+  <p>Flight Hours: 386</p>
+  <p># Flights: 2</p>",19.6468827043885
+1980,#287D8EFF,120,"Cleave, Mary L.","  <p><b> Cleave, Mary L.</b></p>
+  <p>DoB: 1947-02-05</p>
+  <p>Selected in: 1980 (at 33)</p>
+  <p>Flight Hours: 240</p>
+  <p># Flights: 2</p>",15.491933384829668
+1980,#287D8EFF,121,"Gardner, Guy S.","  <p><b>Colonel Gardner, Guy S.</b></p>
+  <p>DoB: 1948-01-06</p>
+  <p>Selected in: 1980 (at 32)</p>
+  <p>Flight Hours: 320</p>
+  <p># Flights: 2</p>",17.88854381999832
+1980,#287D8EFF,122,"Ross, Jerry L.","  <p><b>Colonel Ross, Jerry L.</b></p>
+  <p>DoB: 1948-01-20</p>
+  <p>Selected in: 1980 (at 32)</p>
+  <p>Flight Hours: 1393</p>
+  <p># Flights: 7</p>",37.322915213043046
+1980,#287D8EFF,123,"Dunbar, Bonnie J.","  <p><b> Dunbar, Bonnie J.</b></p>
+  <p>DoB: 1949-03-03</p>
+  <p>Selected in: 1980 (at 31)</p>
+  <p>Flight Hours: 1208</p>
+  <p># Flights: 5</p>",34.75629439396553
+1980,#287D8EFF,124,"Leestma, David C.","  <p><b>Captain Leestma, David C.</b></p>
+  <p>DoB: 1949-05-06</p>
+  <p>Selected in: 1980 (at 31)</p>
+  <p>Flight Hours: 532</p>
+  <p># Flights: 3</p>",23.065125189341593
+1980,#287D8EFF,125,"Hilmers, David C.","  <p><b>Colonel Hilmers, David C.</b></p>
+  <p>DoB: 1950-01-28</p>
+  <p>Selected in: 1980 (at 30)</p>
+  <p>Flight Hours: 494</p>
+  <p># Flights: 4</p>",22.22611077089287
+1980,#287D8EFF,126,"Chang-Diaz, Franklin R.","  <p><b> Chang-Diaz, Franklin R.</b></p>
+  <p>DoB: 1950-04-05</p>
+  <p>Selected in: 1980 (at 30)</p>
+  <p>Flight Hours: 1601</p>
+  <p># Flights: 7</p>",40.01249804748511
+1980,#287D8EFF,127,"Bagian, James P.","  <p><b> Bagian, James P.</b></p>
+  <p>DoB: 1952-02-22</p>
+  <p>Selected in: 1980 (at 28)</p>
+  <p>Flight Hours: 337</p>
+  <p># Flights: 2</p>",18.35755975068582
+1984,#238A8DFF,128,"Casper, John H.","  <p><b>Colonel Casper, John H.</b></p>
+  <p>DoB: 1943-07-09</p>
+  <p>Selected in: 1984 (at 41)</p>
+  <p>Flight Hours: 825</p>
+  <p># Flights: 4</p>",28.722813232690143
+1984,#238A8DFF,129,"McCulley, Michael J.","  <p><b>Captain McCulley, Michael J.</b></p>
+  <p>DoB: 1943-08-04</p>
+  <p>Selected in: 1984 (at 41)</p>
+  <p>Flight Hours: 119</p>
+  <p># Flights: 1</p>",10.908712114635714
+1984,#238A8DFF,130,"Veach, Charles Lacy","  <p><b> Veach, Charles Lacy</b></p>
+  <p>DoB: 1944-09-18</p>
+  <p>Selected in: 1984 (at 40)</p>
+  <p>Flight Hours: 436</p>
+  <p># Flights: 2</p>",20.8806130178211
+1984,#238A8DFF,131,"Adamson, James C.","  <p><b>Colonel Adamson, James C.</b></p>
+  <p>DoB: 1946-03-03</p>
+  <p>Selected in: 1984 (at 38)</p>
+  <p>Flight Hours: 334</p>
+  <p># Flights: 2</p>",18.275666882497067
+1984,#238A8DFF,132,"Carter, Manley Lanier, Jr.","  <p><b>Captain Carter, Manley Lanier, Jr.</b></p>
+  <p>DoB: 1947-08-15</p>
+  <p>Selected in: 1984 (at 37)</p>
+  <p>Flight Hours: 120</p>
+  <p># Flights: 1</p>",10.954451150103322
+1984,#238A8DFF,133,"Culbertson, Frank L., Jr.","  <p><b>Captain Culbertson, Frank L., Jr.</b></p>
+  <p>DoB: 1949-05-15</p>
+  <p>Selected in: 1984 (at 35)</p>
+  <p>Flight Hours: 146</p>
+  <p># Flights: 3</p>",12.083045973594572
+1984,#238A8DFF,134,"Shepherd, William M.","  <p><b>Captain Shepherd, William M.</b></p>
+  <p>DoB: 1949-07-26</p>
+  <p>Selected in: 1984 (at 35)</p>
+  <p>Flight Hours: 3816</p>
+  <p># Flights: 4</p>",61.773780845922005
+1984,#238A8DFF,135,"Cameron, Kenneth D.","  <p><b>Colonel Cameron, Kenneth D.</b></p>
+  <p>DoB: 1949-11-29</p>
+  <p>Selected in: 1984 (at 35)</p>
+  <p>Flight Hours: 561</p>
+  <p># Flights: 3</p>",23.68543856465402
+1984,#238A8DFF,136,"Ivins, Marsha S.","  <p><b> Ivins, Marsha S.</b></p>
+  <p>DoB: 1951-04-15</p>
+  <p>Selected in: 1984 (at 33)</p>
+  <p>Flight Hours: 1318</p>
+  <p># Flights: 5</p>",36.30426972134269
+1984,#238A8DFF,137,"Gutierrez, Sidney M.","  <p><b>Colonel Gutierrez, Sidney M.</b></p>
+  <p>DoB: 1951-06-27</p>
+  <p>Selected in: 1984 (at 33)</p>
+  <p>Flight Hours: 488</p>
+  <p># Flights: 2</p>",22.090722034374522
+1984,#238A8DFF,138,"Brown, Mark N.","  <p><b>Colonel Brown, Mark N.</b></p>
+  <p>DoB: 1951-11-18</p>
+  <p>Selected in: 1984 (at 33)</p>
+  <p>Flight Hours: 249</p>
+  <p># Flights: 2</p>",15.7797338380595
+1984,#238A8DFF,139,"Hammond, L. Blaine, Jr.","  <p><b>Colonel Hammond, L. Blaine, Jr.</b></p>
+  <p>DoB: 1952-01-16</p>
+  <p>Selected in: 1984 (at 32)</p>
+  <p>Flight Hours: 462</p>
+  <p># Flights: 2</p>",21.494185260204677
+1984,#238A8DFF,140,"Lee, Mark C.","  <p><b>Colonel Lee, Mark C.</b></p>
+  <p>DoB: 1952-08-14</p>
+  <p>Selected in: 1984 (at 32)</p>
+  <p>Flight Hours: 789</p>
+  <p># Flights: 4</p>",28.089143810376278
+1984,#238A8DFF,141,"Thornton, Kathryn C.","  <p><b> Thornton, Kathryn C.</b></p>
+  <p>DoB: 1952-08-17</p>
+  <p>Selected in: 1984 (at 32)</p>
+  <p>Flight Hours: 975</p>
+  <p># Flights: 4</p>",31.22498999199199
+1984,#238A8DFF,142,"Wetherbee, James D.","  <p><b>Captain Wetherbee, James D.</b></p>
+  <p>DoB: 1952-11-27</p>
+  <p>Selected in: 1984 (at 32)</p>
+  <p>Flight Hours: 1592</p>
+  <p># Flights: 6</p>",39.89987468652001
+1984,#238A8DFF,143,"Baker, Ellen S.","  <p><b> Baker, Ellen S.</b></p>
+  <p>DoB: 1953-04-27</p>
+  <p>Selected in: 1984 (at 31)</p>
+  <p>Flight Hours: 686</p>
+  <p># Flights: 3</p>",26.19160170741759
+1984,#238A8DFF,144,"Low, G. David","  <p><b> Low, G. David</b></p>
+  <p>DoB: 1956-02-19</p>
+  <p>Selected in: 1984 (at 28)</p>
+  <p>Flight Hours: 714</p>
+  <p># Flights: 3</p>",26.720778431774775
+1985,#1F968BFF,145,"Cabana, Robert D.","  <p><b>Colonel Cabana, Robert D.</b></p>
+  <p>DoB: 1949-01-23</p>
+  <p>Selected in: 1985 (at 36)</p>
+  <p>Flight Hours: 1010</p>
+  <p># Flights: 4</p>",31.78049716414141
+1985,#1F968BFF,146,"Apt, Jerome","  <p><b> Apt, Jerome</b></p>
+  <p>DoB: 1949-04-28</p>
+  <p>Selected in: 1985 (at 36)</p>
+  <p>Flight Hours: 847</p>
+  <p># Flights: 4</p>",29.103264421710495
+1985,#1F968BFF,147,"Meade, Carl J.","  <p><b>Colonel Meade, Carl J.</b></p>
+  <p>DoB: 1950-11-16</p>
+  <p>Selected in: 1985 (at 35)</p>
+  <p>Flight Hours: 712</p>
+  <p># Flights: 3</p>",26.68332812825267
+1985,#1F968BFF,148,"Oswald, Stephen S.","  <p><b> Oswald, Stephen S.</b></p>
+  <p>DoB: 1951-06-30</p>
+  <p>Selected in: 1985 (at 34)</p>
+  <p>Flight Hours: 814</p>
+  <p># Flights: 3</p>",28.53068523537421
+1985,#1F968BFF,149,"Godwin, Linda M.","  <p><b> Godwin, Linda M.</b></p>
+  <p>DoB: 1952-07-02</p>
+  <p>Selected in: 1985 (at 33)</p>
+  <p>Flight Hours: 912</p>
+  <p># Flights: 4</p>",30.199337741083
+1985,#1F968BFF,150,"Henricks, Terence T.","  <p><b>Colonel Henricks, Terence T.</b></p>
+  <p>DoB: 1952-07-05</p>
+  <p>Selected in: 1985 (at 33)</p>
+  <p>Flight Hours: 1026</p>
+  <p># Flights: 4</p>",32.03123475609393
+1985,#1F968BFF,151,"Thorne, Stephen D.","  <p><b>Lieutenant Commander Thorne, Stephen D.</b></p>
+  <p>DoB: 1953-02-11</p>
+  <p>Selected in: 1985 (at 32)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1985,#1F968BFF,152,"Duffy, Brian","  <p><b>Colonel Duffy, Brian</b></p>
+  <p>DoB: 1953-06-20</p>
+  <p>Selected in: 1985 (at 32)</p>
+  <p>Flight Hours: 976</p>
+  <p># Flights: 4</p>",31.240998703626616
+1985,#1F968BFF,153,"Baker, Michael A.","  <p><b>Captain Baker, Michael A.</b></p>
+  <p>DoB: 1953-10-27</p>
+  <p>Selected in: 1985 (at 32)</p>
+  <p>Flight Hours: 965</p>
+  <p># Flights: 4</p>",31.064449134018133
+1985,#1F968BFF,154,"Thuot, Pierre J.","  <p><b>Commander Thuot, Pierre J.</b></p>
+  <p>DoB: 1955-05-19</p>
+  <p>Selected in: 1985 (at 30)</p>
+  <p>Flight Hours: 654</p>
+  <p># Flights: 3</p>",25.573423705088842
+1985,#1F968BFF,155,"Gemar, Charles D.","  <p><b>Lieutenant Colonel Gemar, Charles D.</b></p>
+  <p>DoB: 1955-08-04</p>
+  <p>Selected in: 1985 (at 30)</p>
+  <p>Flight Hours: 581</p>
+  <p># Flights: 3</p>",24.1039415863879
+1985,#1F968BFF,156,"Hieb, Richard J.","  <p><b> Hieb, Richard J.</b></p>
+  <p>DoB: 1955-09-21</p>
+  <p>Selected in: 1985 (at 30)</p>
+  <p>Flight Hours: 766</p>
+  <p># Flights: 3</p>",27.676705006196094
+1985,#1F968BFF,157,"Jernigan, Tamara E.","  <p><b> Jernigan, Tamara E.</b></p>
+  <p>DoB: 1959-05-07</p>
+  <p>Selected in: 1985 (at 26)</p>
+  <p>Flight Hours: 1512</p>
+  <p># Flights: 5</p>",38.88444419044716
+1987,#20A386FF,158,"Voss, James S.","  <p><b>Colonel Voss, James S.</b></p>
+  <p>DoB: 1949-03-03</p>
+  <p>Selected in: 1987 (at 38)</p>
+  <p>Flight Hours: 4848</p>
+  <p># Flights: 5</p>",69.62758074211685
+1987,#20A386FF,159,"Melnick, Bruce E.","  <p><b>Commander Melnick, Bruce E.</b></p>
+  <p>DoB: 1949-12-05</p>
+  <p>Selected in: 1987 (at 38)</p>
+  <p>Flight Hours: 311</p>
+  <p># Flights: 2</p>",17.635192088548397
+1987,#20A386FF,160,"Reightler, Kenneth S., Jr.","  <p><b>Captain Reightler, Kenneth S., Jr.</b></p>
+  <p>DoB: 1951-03-24</p>
+  <p>Selected in: 1987 (at 36)</p>
+  <p>Flight Hours: 327</p>
+  <p># Flights: 2</p>",18.083141320025124
+1987,#20A386FF,161,"Akers, Thomas D.","  <p><b>Lieutenant Colonel Akers, Thomas D.</b></p>
+  <p>DoB: 1951-05-20</p>
+  <p>Selected in: 1987 (at 36)</p>
+  <p>Flight Hours: 814</p>
+  <p># Flights: 4</p>",28.53068523537421
+1987,#20A386FF,162,"Readdy, William F.","  <p><b> Readdy, William F.</b></p>
+  <p>DoB: 1952-01-24</p>
+  <p>Selected in: 1987 (at 35)</p>
+  <p>Flight Hours: 672</p>
+  <p># Flights: 3</p>",25.92296279363144
+1987,#20A386FF,163,"Runco, Mario, Jr.","  <p><b>Lieutenant Commander Runco, Mario, Jr.</b></p>
+  <p>DoB: 1952-01-26</p>
+  <p>Selected in: 1987 (at 35)</p>
+  <p>Flight Hours: 551</p>
+  <p># Flights: 3</p>",23.473389188611005
+1987,#20A386FF,164,"McMonagle, Donald R.","  <p><b>Colonel McMonagle, Donald R.</b></p>
+  <p>DoB: 1952-05-14</p>
+  <p>Selected in: 1987 (at 35)</p>
+  <p>Flight Hours: 605</p>
+  <p># Flights: 3</p>",24.596747752497688
+1987,#20A386FF,165,"Davis, N. Jan","  <p><b> Davis, N. Jan</b></p>
+  <p>DoB: 1953-11-01</p>
+  <p>Selected in: 1987 (at 34)</p>
+  <p>Flight Hours: 673</p>
+  <p># Flights: 3</p>",25.942243542145693
+1987,#20A386FF,166,"Chilton, Kevin P.","  <p><b>Brigadier General Chilton, Kevin P.</b></p>
+  <p>DoB: 1954-03-11</p>
+  <p>Selected in: 1987 (at 33)</p>
+  <p>Flight Hours: 704</p>
+  <p># Flights: 3</p>",26.5329983228432
+1987,#20A386FF,167,"Allen, Andrew M.","  <p><b>Lieutenant Colonel Allen, Andrew M.</b></p>
+  <p>DoB: 1955-08-04</p>
+  <p>Selected in: 1987 (at 32)</p>
+  <p>Flight Hours: 904</p>
+  <p># Flights: 3</p>",30.066592756745816
+1987,#20A386FF,168,"Brown, Curtis L., Jr.","  <p><b>Colonel Brown, Curtis L., Jr.</b></p>
+  <p>DoB: 1956-03-11</p>
+  <p>Selected in: 1987 (at 31)</p>
+  <p>Flight Hours: 1381</p>
+  <p># Flights: 6</p>",37.16180835212409
+1987,#20A386FF,169,"Harbaugh, Gregory J.","  <p><b> Harbaugh, Gregory J.</b></p>
+  <p>DoB: 1956-04-15</p>
+  <p>Selected in: 1987 (at 31)</p>
+  <p>Flight Hours: 817</p>
+  <p># Flights: 4</p>",28.583211855912904
+1987,#20A386FF,170,"Jemison, Mae C.","  <p><b> Jemison, Mae C.</b></p>
+  <p>DoB: 1956-10-17</p>
+  <p>Selected in: 1987 (at 31)</p>
+  <p>Flight Hours: 190</p>
+  <p># Flights: 1</p>",13.784048752090222
+1987,#20A386FF,171,"Bowersox, Kenneth D.","  <p><b>Captain Bowersox, Kenneth D.</b></p>
+  <p>DoB: 1956-11-14</p>
+  <p>Selected in: 1987 (at 31)</p>
+  <p>Flight Hours: 5304</p>
+  <p># Flights: 5</p>",72.8285658241325
+1987,#20A386FF,172,"Foale, C. Michael","  <p><b> Foale, C. Michael</b></p>
+  <p>DoB: 1957-01-06</p>
+  <p>Selected in: 1987 (at 30)</p>
+  <p>Flight Hours: 8976</p>
+  <p># Flights: 6</p>",94.74175425861608
+1990,#29AF7FFF,173,"Wilcutt, Terrence W.","  <p><b>Colonel Wilcutt, Terrence W.</b></p>
+  <p>DoB: 1949-10-31</p>
+  <p>Selected in: 1990 (at 41)</p>
+  <p>Flight Hours: 1007</p>
+  <p># Flights: 4</p>",31.73326330524486
+1990,#29AF7FFF,174,"Cockrell, Kenneth D.","  <p><b>US Naval Reserve Cockrell, Kenneth D.</b></p>
+  <p>DoB: 1950-04-09</p>
+  <p>Selected in: 1990 (at 40)</p>
+  <p>Flight Hours: 1560</p>
+  <p># Flights: 5</p>",39.496835316262995
+1990,#29AF7FFF,175,"McArthur, William S., Jr.","  <p><b>Colonel McArthur, William S., Jr.</b></p>
+  <p>DoB: 1951-07-26</p>
+  <p>Selected in: 1990 (at 39)</p>
+  <p>Flight Hours: 5398</p>
+  <p># Flights: 4</p>",73.47108274688756
+1990,#29AF7FFF,176,"Clifford, Michael R.","  <p><b>Lieutenant Colonel Clifford, Michael R.</b></p>
+  <p>DoB: 1952-10-13</p>
+  <p>Selected in: 1990 (at 38)</p>
+  <p>Flight Hours: 665</p>
+  <p># Flights: 3</p>",25.787593916455254
+1990,#29AF7FFF,177,"Sega, Ronald M.","  <p><b>Colonel Sega, Ronald M.</b></p>
+  <p>DoB: 1952-12-04</p>
+  <p>Selected in: 1990 (at 38)</p>
+  <p>Flight Hours: 420</p>
+  <p># Flights: 2</p>",20.493901531919196
+1990,#29AF7FFF,178,"Jones, Thomas D.","  <p><b> Jones, Thomas D.</b></p>
+  <p>DoB: 1955-01-22</p>
+  <p>Selected in: 1990 (at 35)</p>
+  <p>Flight Hours: 1272</p>
+  <p># Flights: 4</p>",35.66510900025401
+1990,#29AF7FFF,179,"Thomas, Donald A.","  <p><b> Thomas, Donald A.</b></p>
+  <p>DoB: 1955-05-06</p>
+  <p>Selected in: 1990 (at 35)</p>
+  <p>Flight Hours: 1040</p>
+  <p># Flights: 4</p>",32.2490309931942
+1990,#29AF7FFF,180,"Precourt, Charles J., Jr.","  <p><b>Colonel Precourt, Charles J., Jr.</b></p>
+  <p>DoB: 1955-06-29</p>
+  <p>Selected in: 1990 (at 35)</p>
+  <p>Flight Hours: 932</p>
+  <p># Flights: 4</p>",30.528675044947494
+1990,#29AF7FFF,181,"Walz, Carl E.","  <p><b>Colonel Walz, Carl E.</b></p>
+  <p>DoB: 1955-09-06</p>
+  <p>Selected in: 1990 (at 35)</p>
+  <p>Flight Hours: 5544</p>
+  <p># Flights: 4</p>",74.45804187594514
+1990,#29AF7FFF,182,"Searfoss, Richard A.","  <p><b>Colonel Searfoss, Richard A.</b></p>
+  <p>DoB: 1956-06-05</p>
+  <p>Selected in: 1990 (at 34)</p>
+  <p>Flight Hours: 938</p>
+  <p># Flights: 3</p>",30.62678566222711
+1990,#29AF7FFF,183,"Harris, Bernard A., Jr.","  <p><b> Harris, Bernard A., Jr.</b></p>
+  <p>DoB: 1956-06-26</p>
+  <p>Selected in: 1990 (at 34)</p>
+  <p>Flight Hours: 438</p>
+  <p># Flights: 2</p>",20.92844953645635
+1990,#29AF7FFF,184,"Wolf, David A.","  <p><b> Wolf, David A.</b></p>
+  <p>DoB: 1956-08-23</p>
+  <p>Selected in: 1990 (at 34)</p>
+  <p>Flight Hours: 3432</p>
+  <p># Flights: 3</p>",58.58327406350724
+1990,#29AF7FFF,185,"Halsell, James D., Jr.","  <p><b>Colonel Halsell, James D., Jr.</b></p>
+  <p>DoB: 1956-09-29</p>
+  <p>Selected in: 1990 (at 34)</p>
+  <p>Flight Hours: 1250</p>
+  <p># Flights: 5</p>",35.35533905932738
+1990,#29AF7FFF,186,"Voss, Janice E.","  <p><b> Voss, Janice E.</b></p>
+  <p>DoB: 1956-10-08</p>
+  <p>Selected in: 1990 (at 34)</p>
+  <p>Flight Hours: 1176</p>
+  <p># Flights: 5</p>",34.292856398964496
+1990,#29AF7FFF,187,"Newman, James H.","  <p><b> Newman, James H.</b></p>
+  <p>DoB: 1956-10-16</p>
+  <p>Selected in: 1990 (at 34)</p>
+  <p>Flight Hours: 1032</p>
+  <p># Flights: 4</p>",32.12475680841802
+1990,#29AF7FFF,188,"Gregory, William G.","  <p><b>Lieutenant Colonel Gregory, William G.</b></p>
+  <p>DoB: 1957-05-14</p>
+  <p>Selected in: 1990 (at 33)</p>
+  <p>Flight Hours: 399</p>
+  <p># Flights: 1</p>",19.974984355438178
+1990,#29AF7FFF,189,"Bursch, Daniel W.","  <p><b>Captain Bursch, Daniel W.</b></p>
+  <p>DoB: 1957-07-25</p>
+  <p>Selected in: 1990 (at 33)</p>
+  <p>Flight Hours: 5448</p>
+  <p># Flights: 4</p>",73.81056834898374
+1990,#29AF7FFF,190,"Helms, Susan J.","  <p><b>Colonel Helms, Susan J.</b></p>
+  <p>DoB: 1958-02-26</p>
+  <p>Selected in: 1990 (at 32)</p>
+  <p>Flight Hours: 5064</p>
+  <p># Flights: 5</p>",71.16178749862878
+1990,#29AF7FFF,191,"Ochoa, Ellen","  <p><b> Ochoa, Ellen</b></p>
+  <p>DoB: 1958-05-10</p>
+  <p>Selected in: 1990 (at 32)</p>
+  <p>Flight Hours: 978</p>
+  <p># Flights: 4</p>",31.272991542223778
+1990,#29AF7FFF,192,"Wisoff, Peter J. K.","  <p><b> Wisoff, Peter J. K.</b></p>
+  <p>DoB: 1958-08-16</p>
+  <p>Selected in: 1990 (at 32)</p>
+  <p>Flight Hours: 1063</p>
+  <p># Flights: 4</p>",32.60368077380221
+1990,#29AF7FFF,193,"Currie, Nancy J.","  <p><b>Lieutenant Colonel Currie, Nancy J.</b></p>
+  <p>DoB: 1958-12-29</p>
+  <p>Selected in: 1990 (at 32)</p>
+  <p>Flight Hours: 999</p>
+  <p># Flights: 4</p>",31.606961258558215
+1990,#29AF7FFF,194,"Collins, Eileen M.","  <p><b>Colonel Collins, Eileen M.</b></p>
+  <p>DoB: 1959-11-19</p>
+  <p>Selected in: 1990 (at 31)</p>
+  <p>Flight Hours: 872</p>
+  <p># Flights: 4</p>",29.5296461204668
+1990,#29AF7FFF,195,"Chiao, Leroy","  <p><b> Chiao, Leroy</b></p>
+  <p>DoB: 1960-08-28</p>
+  <p>Selected in: 1990 (at 30)</p>
+  <p>Flight Hours: 5503</p>
+  <p># Flights: 4</p>",74.18220810949214
+1992,#3CBC75FF,196,"Tanner, Joseph R.","  <p><b> Tanner, Joseph R.</b></p>
+  <p>DoB: 1950-01-21</p>
+  <p>Selected in: 1992 (at 42)</p>
+  <p>Flight Hours: 1069</p>
+  <p># Flights: 4</p>",32.69556544854363
+1992,#3CBC75FF,197,"Scott, Winston E.","  <p><b>Captain Scott, Winston E.</b></p>
+  <p>DoB: 1950-08-06</p>
+  <p>Selected in: 1992 (at 42)</p>
+  <p>Flight Hours: 590</p>
+  <p># Flights: 2</p>",24.289915602982237
+1992,#3CBC75FF,198,"Brady, Charles E., Jr.","  <p><b>Captain Brady, Charles E., Jr.</b></p>
+  <p>DoB: 1951-08-12</p>
+  <p>Selected in: 1992 (at 41)</p>
+  <p>Flight Hours: 405</p>
+  <p># Flights: 1</p>",20.12461179749811
+1992,#3CBC75FF,199,"Thomas, Andrew S. W.","  <p><b> Thomas, Andrew S. W.</b></p>
+  <p>DoB: 1951-12-18</p>
+  <p>Selected in: 1992 (at 41)</p>
+  <p>Flight Hours: 4248</p>
+  <p># Flights: 4</p>",65.1766829472013
+1992,#3CBC75FF,200,"Barry, Daniel T.","  <p><b> Barry, Daniel T.</b></p>
+  <p>DoB: 1953-12-30</p>
+  <p>Selected in: 1992 (at 39)</p>
+  <p>Flight Hours: 734</p>
+  <p># Flights: 3</p>",27.09243436828813
+1992,#3CBC75FF,201,"Linenger, Jerry M.","  <p><b>Captain Linenger, Jerry M.</b></p>
+  <p>DoB: 1955-01-16</p>
+  <p>Selected in: 1992 (at 37)</p>
+  <p>Flight Hours: 3435</p>
+  <p># Flights: 2</p>",58.60887304837041
+1992,#3CBC75FF,202,"Gernhardt, Michael L.","  <p><b> Gernhardt, Michael L.</b></p>
+  <p>DoB: 1956-05-04</p>
+  <p>Selected in: 1992 (at 36)</p>
+  <p>Flight Hours: 1032</p>
+  <p># Flights: 4</p>",32.12475680841802
+1992,#3CBC75FF,203,"Rominger, Kent V.","  <p><b>Captain Rominger, Kent V.</b></p>
+  <p>DoB: 1956-08-07</p>
+  <p>Selected in: 1992 (at 36)</p>
+  <p>Flight Hours: 1608</p>
+  <p># Flights: 5</p>",40.099875311526844
+1992,#3CBC75FF,204,Kregel Kevin R.,"  <p><b> Kregel Kevin R.</b></p>
+  <p>DoB: 1956-09-16</p>
+  <p>Selected in: 1992 (at 36)</p>
+  <p>Flight Hours: 1265</p>
+  <p># Flights: 4</p>",35.566838487557476
+1992,#3CBC75FF,205,"Horowitz, Scott J.","  <p><b>Colonel Horowitz, Scott J.</b></p>
+  <p>DoB: 1957-03-24</p>
+  <p>Selected in: 1992 (at 35)</p>
+  <p>Flight Hours: 1138</p>
+  <p># Flights: 4</p>",33.734255586866
+1992,#3CBC75FF,206,"Linnehan, Richard M.","  <p><b> Linnehan, Richard M.</b></p>
+  <p>DoB: 1957-09-19</p>
+  <p>Selected in: 1992 (at 35)</p>
+  <p>Flight Hours: 1392</p>
+  <p># Flights: 4</p>",37.30951621235526
+1992,#3CBC75FF,207,"Lopez-Alegria, Michael E.","  <p><b>Captain Lopez-Alegria, Michael E.</b></p>
+  <p>DoB: 1958-05-30</p>
+  <p>Selected in: 1992 (at 34)</p>
+  <p>Flight Hours: 6168</p>
+  <p># Flights: 4</p>",78.53661566428744
+1992,#3CBC75FF,208,"Jett, Brent W.","  <p><b>Captain Jett, Brent W.</b></p>
+  <p>DoB: 1958-10-05</p>
+  <p>Selected in: 1992 (at 34)</p>
+  <p>Flight Hours: 960</p>
+  <p># Flights: 4</p>",30.983866769659336
+1992,#3CBC75FF,209,"Grunsfeld, John M.","  <p><b> Grunsfeld, John M.</b></p>
+  <p>DoB: 1958-10-10</p>
+  <p>Selected in: 1992 (at 34)</p>
+  <p>Flight Hours: 1392</p>
+  <p># Flights: 5</p>",37.30951621235526
+1992,#3CBC75FF,210,"Smith, Steven L.","  <p><b> Smith, Steven L.</b></p>
+  <p>DoB: 1958-12-30</p>
+  <p>Selected in: 1992 (at 34)</p>
+  <p>Flight Hours: 959</p>
+  <p># Flights: 4</p>",30.967725134404045
+1992,#3CBC75FF,211,"Lawrence, Wendy B.","  <p><b>Captain Lawrence, Wendy B.</b></p>
+  <p>DoB: 1959-07-02</p>
+  <p>Selected in: 1992 (at 33)</p>
+  <p>Flight Hours: 1225</p>
+  <p># Flights: 4</p>",35
+1992,#3CBC75FF,212,"Coleman, Catherine G.","  <p><b>Lieutenant Colonel Coleman, Catherine G.</b></p>
+  <p>DoB: 1960-12-14</p>
+  <p>Selected in: 1992 (at 32)</p>
+  <p>Flight Hours: 500</p>
+  <p># Flights: 2</p>",22.360679774997898
+1992,#3CBC75FF,213,"Parazynski, Scott E.","  <p><b> Parazynski, Scott E.</b></p>
+  <p>DoB: 1961-07-28</p>
+  <p>Selected in: 1992 (at 31)</p>
+  <p>Flight Hours: 1318</p>
+  <p># Flights: 4</p>",36.30426972134269
+1992,#3CBC75FF,214,"Weber, Mary E.","  <p><b> Weber, Mary E.</b></p>
+  <p>DoB: 1962-08-24</p>
+  <p>Selected in: 1992 (at 30)</p>
+  <p>Flight Hours: 450</p>
+  <p># Flights: 2</p>",21.213203435596427
+1995,#56C667FF,215,"Reilly, James F.","  <p><b>US Naval Reserve Reilly, James F.</b></p>
+  <p>DoB: 1954-03-18</p>
+  <p>Selected in: 1995 (at 41)</p>
+  <p>Flight Hours: 853</p>
+  <p># Flights: 3</p>",29.206163733020468
+1995,#56C667FF,216,"Ashby, Jeffrey S.","  <p><b>Captain Ashby, Jeffrey S.</b></p>
+  <p>DoB: 1954-06-01</p>
+  <p>Selected in: 1995 (at 41)</p>
+  <p>Flight Hours: 660</p>
+  <p># Flights: 3</p>",25.69046515733026
+1995,#56C667FF,217,"Robinson, Stephen K.","  <p><b> Robinson, Stephen K.</b></p>
+  <p>DoB: 1955-10-26</p>
+  <p>Selected in: 1995 (at 40)</p>
+  <p>Flight Hours: 1156</p>
+  <p># Flights: 4</p>",34
+1995,#56C667FF,218,"Gorie, Dominic L.","  <p><b>Captain Gorie, Dominic L.</b></p>
+  <p>DoB: 1957-05-02</p>
+  <p>Selected in: 1995 (at 38)</p>
+  <p>Flight Hours: 128</p>
+  <p># Flights: 4</p>",11.313708498984761
+1995,#56C667FF,219,"Husband, Rick D.","  <p><b>Colonel Husband, Rick D.</b></p>
+  <p>DoB: 1957-07-12</p>
+  <p>Selected in: 1995 (at 38)</p>
+  <p>Flight Hours: 617</p>
+  <p># Flights: 2</p>",24.839484696748443
+1995,#56C667FF,220,"Edwards, Joe F., Jr.","  <p><b>Commander Edwards, Joe F., Jr.</b></p>
+  <p>DoB: 1958-02-03</p>
+  <p>Selected in: 1995 (at 37)</p>
+  <p>Flight Hours: 211</p>
+  <p># Flights: 1</p>",14.52583904633395
+1995,#56C667FF,221,"Bloomfield, Michael J.","  <p><b>Colonel Bloomfield, Michael J.</b></p>
+  <p>DoB: 1959-03-16</p>
+  <p>Selected in: 1995 (at 36)</p>
+  <p>Flight Hours: 753</p>
+  <p># Flights: 3</p>",27.440845468024488
+1995,#56C667FF,222,"Kavandi, Janet L.","  <p><b> Kavandi, Janet L.</b></p>
+  <p>DoB: 1959-07-17</p>
+  <p>Selected in: 1995 (at 36)</p>
+  <p>Flight Hours: 792</p>
+  <p># Flights: 3</p>",28.142494558940577
+1995,#56C667FF,223,"Altman, Scott D.","  <p><b>Captain Altman, Scott D.</b></p>
+  <p>DoB: 1959-08-15</p>
+  <p>Selected in: 1995 (at 36)</p>
+  <p>Flight Hours: 1224</p>
+  <p># Flights: 4</p>",34.9857113690718
+1995,#56C667FF,224,"Hire, Kathryn P.","  <p><b>Captain Hire, Kathryn P.</b></p>
+  <p>DoB: 1959-08-26</p>
+  <p>Selected in: 1995 (at 36)</p>
+  <p>Flight Hours: 711</p>
+  <p># Flights: 2</p>",26.664583251946766
+1995,#56C667FF,225,"Noriega, Carlos I.","  <p><b>Lieutenant Colonel Noriega, Carlos I.</b></p>
+  <p>DoB: 1959-10-08</p>
+  <p>Selected in: 1995 (at 36)</p>
+  <p>Flight Hours: 481</p>
+  <p># Flights: 2</p>",21.93171219946131
+1995,#56C667FF,226,"Anderson, Michael P.","  <p><b>Lieutenant Colonel Anderson, Michael P.</b></p>
+  <p>DoB: 1959-12-25</p>
+  <p>Selected in: 1995 (at 36)</p>
+  <p>Flight Hours: 593</p>
+  <p># Flights: 2</p>",24.351591323771842
+1995,#56C667FF,227,"Lindsey, Steven W.","  <p><b>Colonel Lindsey, Steven W.</b></p>
+  <p>DoB: 1960-08-24</p>
+  <p>Selected in: 1995 (at 35)</p>
+  <p>Flight Hours: 1510</p>
+  <p># Flights: 5</p>",38.8587184554509
+1995,#56C667FF,228,"Chawla, Kalpana","  <p><b> Chawla, Kalpana</b></p>
+  <p>DoB: 1961-06-01</p>
+  <p>Selected in: 1995 (at 34)</p>
+  <p>Flight Hours: 758</p>
+  <p># Flights: 2</p>",27.53179979587241
+1995,#56C667FF,229,"Sturckow, Frederick W.","  <p><b>Lieutenant Colonel Sturckow, Frederick W.</b></p>
+  <p>DoB: 1961-08-11</p>
+  <p>Selected in: 1995 (at 34)</p>
+  <p>Flight Hours: 1200</p>
+  <p># Flights: 4</p>",34.64101615137755
+1995,#56C667FF,230,"Melroy, Pamela A.","  <p><b>Colonel Melroy, Pamela A.</b></p>
+  <p>DoB: 1961-09-17</p>
+  <p>Selected in: 1995 (at 34)</p>
+  <p>Flight Hours: 924</p>
+  <p># Flights: 3</p>",30.397368307141328
+1995,#56C667FF,231,"Kilrain, Susan L.","  <p><b>Commander Kilrain, Susan L.</b></p>
+  <p>DoB: 1961-10-24</p>
+  <p>Selected in: 1995 (at 34)</p>
+  <p>Flight Hours: 471</p>
+  <p># Flights: 2</p>",21.702534414210707
+1995,#56C667FF,232,"Curbeam, Robert L., Jr.","  <p><b>Commander US Navy Curbeam, Robert L., Jr.</b></p>
+  <p>DoB: 1962-03-05</p>
+  <p>Selected in: 1995 (at 33)</p>
+  <p>Flight Hours: 901</p>
+  <p># Flights: 3</p>",30.01666203960727
+1995,#56C667FF,233,"Lu, Edward T.","  <p><b> Lu, Edward T.</b></p>
+  <p>DoB: 1963-07-01</p>
+  <p>Selected in: 1995 (at 32)</p>
+  <p>Flight Hours: 4944</p>
+  <p># Flights: 3</p>",70.31358332498779
+1996,#74D055FF,234,"Phillips, John L.","  <p><b>US Naval Reserve Phillips, John L.</b></p>
+  <p>DoB: 1951-04-15</p>
+  <p>Selected in: 1996 (at 45)</p>
+  <p>Flight Hours: 4872</p>
+  <p># Flights: 3</p>",69.79971346646059
+1996,#74D055FF,235,"Camarda, Charles J.","  <p><b> Camarda, Charles J.</b></p>
+  <p>DoB: 1952-05-08</p>
+  <p>Selected in: 1996 (at 44)</p>
+  <p>Flight Hours: 333</p>
+  <p># Flights: 1</p>",18.24828759089466
+1996,#74D055FF,236,"Morin, Lee M.","  <p><b>Captain Morin, Lee M.</b></p>
+  <p>DoB: 1952-09-09</p>
+  <p>Selected in: 1996 (at 44)</p>
+  <p>Flight Hours: 259</p>
+  <p># Flights: 1</p>",16.09347693943108
+1996,#74D055FF,237,"Sellers, Piers J.","  <p><b> Sellers, Piers J.</b></p>
+  <p>DoB: 1955-04-11</p>
+  <p>Selected in: 1996 (at 41)</p>
+  <p>Flight Hours: 839</p>
+  <p># Flights: 3</p>",28.965496715920477
+1996,#74D055FF,238,"Pettit, Donald R.","  <p><b> Pettit, Donald R.</b></p>
+  <p>DoB: 1955-04-20</p>
+  <p>Selected in: 1996 (at 41)</p>
+  <p>Flight Hours: 4224</p>
+  <p># Flights: 2</p>",64.99230723708769
+1996,#74D055FF,239,"Brown, David M.","  <p><b>Captain Brown, David M.</b></p>
+  <p>DoB: 1956-04-16</p>
+  <p>Selected in: 1996 (at 40)</p>
+  <p>Flight Hours: 382</p>
+  <p># Flights: 1</p>",19.544820285692065
+1996,#74D055FF,240,"Lockhart, Paul S.","  <p><b>Lieutenant Colonel Lockhart, Paul S.</b></p>
+  <p>DoB: 1956-04-28</p>
+  <p>Selected in: 1996 (at 40)</p>
+  <p>Flight Hours: 624</p>
+  <p># Flights: 2</p>",24.979991993593593
+1996,#74D055FF,241,"Polansky, Mark L.","  <p><b> Polansky, Mark L.</b></p>
+  <p>DoB: 1956-06-02</p>
+  <p>Selected in: 1996 (at 40)</p>
+  <p>Flight Hours: 993</p>
+  <p># Flights: 3</p>",31.51190251317746
+1996,#74D055FF,242,"Forrester, Patrick G.","  <p><b>Colonel Forrester, Patrick G.</b></p>
+  <p>DoB: 1957-03-31</p>
+  <p>Selected in: 1996 (at 39)</p>
+  <p>Flight Hours: 950</p>
+  <p># Flights: 3</p>",30.822070014844883
+1996,#74D055FF,243,"Carey, Duane G.","  <p><b>Lieutenant Colonel Carey, Duane G.</b></p>
+  <p>DoB: 1957-04-30</p>
+  <p>Selected in: 1996 (at 39)</p>
+  <p>Flight Hours: 240</p>
+  <p># Flights: 1</p>",15.491933384829668
+1996,#74D055FF,244,"Williams, Jeffrey N.","  <p><b>Colonel Williams, Jeffrey N.</b></p>
+  <p>DoB: 1958-01-18</p>
+  <p>Selected in: 1996 (at 38)</p>
+  <p>Flight Hours: 8688</p>
+  <p># Flights: 3</p>",93.20944158184835
+1996,#74D055FF,245,"Caldeiro, Fernando (Frank)","  <p><b> Caldeiro, Fernando (Frank)</b></p>
+  <p>DoB: 1958-06-12</p>
+  <p>Selected in: 1996 (at 38)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1996,#74D055FF,246,"Herrington, John B.","  <p><b>Commander Herrington, John B.</b></p>
+  <p>DoB: 1958-09-14</p>
+  <p>Selected in: 1996 (at 38)</p>
+  <p>Flight Hours: 330</p>
+  <p># Flights: 1</p>",18.16590212458495
+1996,#74D055FF,247,"Cagle, Yvonne D.","  <p><b>Colonel Cagle, Yvonne D.</b></p>
+  <p>DoB: 1959-04-24</p>
+  <p>Selected in: 1996 (at 37)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1996,#74D055FF,248,"Whitson, Peggy A.","  <p><b> Whitson, Peggy A.</b></p>
+  <p>DoB: 1960-02-09</p>
+  <p>Selected in: 1996 (at 36)</p>
+  <p>Flight Hours: 9048</p>
+  <p># Flights: 2</p>",95.12097560475291
+1996,#74D055FF,249,"Mastracchio, Richard A.","  <p><b> Mastracchio, Richard A.</b></p>
+  <p>DoB: 1960-02-11</p>
+  <p>Selected in: 1996 (at 36)</p>
+  <p>Flight Hours: 960</p>
+  <p># Flights: 3</p>",30.983866769659336
+1996,#74D055FF,250,"Loria, Christopher J.","  <p><b>Lieutenant Colonel Loria, Christopher J.</b></p>
+  <p>DoB: 1960-07-09</p>
+  <p>Selected in: 1996 (at 36)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1996,#74D055FF,251,"Tani, Daniel M.","  <p><b> Tani, Daniel M.</b></p>
+  <p>DoB: 1961-02-01</p>
+  <p>Selected in: 1996 (at 35)</p>
+  <p>Flight Hours: 318</p>
+  <p># Flights: 2</p>",17.832554500127006
+1996,#74D055FF,252,"Clark, Laurel B.","  <p><b>Commander Clark, Laurel B.</b></p>
+  <p>DoB: 1961-03-10</p>
+  <p>Selected in: 1996 (at 35)</p>
+  <p>Flight Hours: 382</p>
+  <p># Flights: 1</p>",19.544820285692065
+1996,#74D055FF,253,"Burbank, Daniel C.","  <p><b>Commander Burbank, Daniel C.</b></p>
+  <p>DoB: 1961-07-27</p>
+  <p>Selected in: 1996 (at 35)</p>
+  <p>Flight Hours: 552</p>
+  <p># Flights: 1</p>",23.49468024894146
+1996,#74D055FF,254,"McCool, William C.","  <p><b>Commander McCool, William C.</b></p>
+  <p>DoB: 1961-09-23</p>
+  <p>Selected in: 1996 (at 35)</p>
+  <p>Flight Hours: 382</p>
+  <p># Flights: 1</p>",19.544820285692065
+1996,#74D055FF,255,"Frick, Stephen N.","  <p><b>Commander Frick, Stephen N.</b></p>
+  <p>DoB: 1961-09-30</p>
+  <p>Selected in: 1996 (at 35)</p>
+  <p>Flight Hours: 565</p>
+  <p># Flights: 2</p>",23.769728648009426
+1996,#74D055FF,256,"Hobaugh, Charles O.","  <p><b>Lieutenant Colonel Hobaugh, Charles O.</b></p>
+  <p>DoB: 1961-11-05</p>
+  <p>Selected in: 1996 (at 35)</p>
+  <p>Flight Hours: 876</p>
+  <p># Flights: 3</p>",29.597297173897484
+1996,#74D055FF,257,"Massimino, Michael J.","  <p><b> Massimino, Michael J.</b></p>
+  <p>DoB: 1962-08-19</p>
+  <p>Selected in: 1996 (at 34)</p>
+  <p>Flight Hours: 571</p>
+  <p># Flights: 2</p>",23.895606290697042
+1996,#74D055FF,258,"Walheim, Rex J.","  <p><b>Lieutenant Colonel Walheim, Rex J.</b></p>
+  <p>DoB: 1962-10-10</p>
+  <p>Selected in: 1996 (at 34)</p>
+  <p>Flight Hours: 565</p>
+  <p># Flights: 2</p>",23.769728648009426
+1996,#74D055FF,259,"Stefanyshyn-Piper, Heidemarie M.","  <p><b>Commander Stefanyshyn-Piper, Heidemarie M.</b></p>
+  <p>DoB: 1963-02-07</p>
+  <p>Selected in: 1996 (at 33)</p>
+  <p>Flight Hours: 648</p>
+  <p># Flights: 2</p>",25.45584412271571
+1996,#74D055FF,260,"Nowak, Lisa M.","  <p><b>Commander Nowak, Lisa M.</b></p>
+  <p>DoB: 1963-05-10</p>
+  <p>Selected in: 1996 (at 33)</p>
+  <p>Flight Hours: 306</p>
+  <p># Flights: 1</p>",17.4928556845359
+1996,#74D055FF,261,"Kelly, Mark E.","  <p><b>Commander Kelly, Mark E.</b></p>
+  <p>DoB: 1964-02-21</p>
+  <p>Selected in: 1996 (at 32)</p>
+  <p>Flight Hours: 912</p>
+  <p># Flights: 3</p>",30.199337741083
+1996,#74D055FF,262,"Kelly, Scott J.","  <p><b>Commander Kelly, Scott J.</b></p>
+  <p>DoB: 1964-02-21</p>
+  <p>Selected in: 1996 (at 32)</p>
+  <p>Flight Hours: 4320</p>
+  <p># Flights: 3</p>",65.72670690061993
+1996,#74D055FF,263,"Kelly, James M.","  <p><b>Lieutenant Colonel Kelly, James M.</b></p>
+  <p>DoB: 1964-05-14</p>
+  <p>Selected in: 1996 (at 32)</p>
+  <p>Flight Hours: 641</p>
+  <p># Flights: 2</p>",25.317977802344327
+1996,#74D055FF,264,"Richards, Paul W.","  <p><b> Richards, Paul W.</b></p>
+  <p>DoB: 1964-05-20</p>
+  <p>Selected in: 1996 (at 32)</p>
+  <p>Flight Hours: 307</p>
+  <p># Flights: 1</p>",17.52141546793523
+1996,#74D055FF,265,"Higginbotham, Joan E.","  <p><b> Higginbotham, Joan E.</b></p>
+  <p>DoB: 1964-08-03</p>
+  <p>Selected in: 1996 (at 32)</p>
+  <p>Flight Hours: 308</p>
+  <p># Flights: 1</p>",17.549928774784245
+1996,#74D055FF,266,"Magnus, Sandra H.","  <p><b> Magnus, Sandra H.</b></p>
+  <p>DoB: 1964-10-30</p>
+  <p>Selected in: 1996 (at 32)</p>
+  <p>Flight Hours: NA</p>
+  <p># Flights: 2</p>",0
+1996,#74D055FF,267,"Wilson, Stephanie D.","  <p><b> Wilson, Stephanie D.</b></p>
+  <p>DoB: 1966-09-27</p>
+  <p>Selected in: 1996 (at 30)</p>
+  <p>Flight Hours: 1008</p>
+  <p># Flights: 3</p>",31.74901573277509
+1996,#74D055FF,268,"Fincke, E. Michael","  <p><b>Lieutenant Colonel Fincke, E. Michael</b></p>
+  <p>DoB: 1967-03-14</p>
+  <p>Selected in: 1996 (at 29)</p>
+  <p>Flight Hours: 9159</p>
+  <p># Flights: 3</p>",95.702664539708607
+1998,#94D840FF,269,"Morgan, Barbara R.","  <p><b> Morgan, Barbara R.</b></p>
+  <p>DoB: 1951-11-28</p>
+  <p>Selected in: 1998 (at 47)</p>
+  <p>Flight Hours: 305</p>
+  <p># Flights: 1</p>",17.46424919657298
+1998,#94D840FF,270,"Johnson, Gregory C.","  <p><b>US naval Reserve Johnson, Gregory C.</b></p>
+  <p>DoB: 1954-07-30</p>
+  <p>Selected in: 1998 (at 44)</p>
+  <p>Flight Hours: 309</p>
+  <p># Flights: 1</p>",17.578395831246947
+1998,#94D840FF,271,"Foreman, Michael J.","  <p><b>Captain Foreman, Michael J.</b></p>
+  <p>DoB: 1957-03-29</p>
+  <p>Selected in: 1998 (at 41)</p>
+  <p>Flight Hours: 637</p>
+  <p># Flights: 2</p>",25.238858928247925
+1998,#94D840FF,272,"Fossum, Michael E.","  <p><b>US Naval Reserve Fossum, Michael E.</b></p>
+  <p>DoB: 1957-12-19</p>
+  <p>Selected in: 1998 (at 41)</p>
+  <p>Flight Hours: 636</p>
+  <p># Flights: 2</p>",25.219040425836983
+1998,#94D840FF,273,"Anderson, Clayton C.","  <p><b> Anderson, Clayton C.</b></p>
+  <p>DoB: 1959-02-23</p>
+  <p>Selected in: 1998 (at 39)</p>
+  <p>Flight Hours: 4046</p>
+  <p># Flights: 2</p>",63.608175575157006
+1998,#94D840FF,274,"Creamer, Timothy J.","  <p><b>Lieutenant Colonel Creamer, Timothy J.</b></p>
+  <p>DoB: 1959-11-15</p>
+  <p>Selected in: 1998 (at 39)</p>
+  <p>Flight Hours: 3912</p>
+  <p># Flights: 1</p>",62.545983084447556
+1998,#94D840FF,275,"Wheelock, Douglas H.","  <p><b>Lieutenant Commander Wheelock, Douglas H.</b></p>
+  <p>DoB: 1960-05-05</p>
+  <p>Selected in: 1998 (at 38)</p>
+  <p>Flight Hours: 4272</p>
+  <p># Flights: 2</p>",65.36053855347276
+1998,#94D840FF,276,"Archambault, Lee J.","  <p><b>Lieutenant Colonel Archambault, Lee J.</b></p>
+  <p>DoB: 1960-08-25</p>
+  <p>Selected in: 1998 (at 38)</p>
+  <p>Flight Hours: 648</p>
+  <p># Flights: 2</p>",25.45584412271571
+1998,#94D840FF,277,"Swanson, Steven R.","  <p><b> Swanson, Steven R.</b></p>
+  <p>DoB: 1960-12-03</p>
+  <p>Selected in: 1998 (at 38)</p>
+  <p>Flight Hours: 643</p>
+  <p># Flights: 2</p>",25.357444666211933
+1998,#94D840FF,278,"Ferguson, Christopher J.","  <p><b>Commander Ferguson, Christopher J.</b></p>
+  <p>DoB: 1961-09-01</p>
+  <p>Selected in: 1998 (at 37)</p>
+  <p>Flight Hours: 672</p>
+  <p># Flights: 2</p>",25.92296279363144
+1998,#94D840FF,279,"Poindexter, Alan G.","  <p><b>Commander Poindexter, Alan G.</b></p>
+  <p>DoB: 1961-11-05</p>
+  <p>Selected in: 1998 (at 37)</p>
+  <p>Flight Hours: 669</p>
+  <p># Flights: 2</p>",25.865034312755125
+1998,#94D840FF,280,"Johnson, Gregory H.","  <p><b>Lieutenant Colonel Johnson, Gregory H.</b></p>
+  <p>DoB: 1962-05-12</p>
+  <p>Selected in: 1998 (at 36)</p>
+  <p>Flight Hours: 378</p>
+  <p># Flights: 1</p>",19.44222209522358
+1998,#94D840FF,281,"Zamka, George D.","  <p><b>Lieutenant Colonel Zamka, George D.</b></p>
+  <p>DoB: 1962-06-29</p>
+  <p>Selected in: 1998 (at 36)</p>
+  <p>Flight Hours: 692</p>
+  <p># Flights: 2</p>",26.30589287593181
+1998,#94D840FF,282,"Woodward, Neil W., III","  <p><b>Commander Woodward, Neil W., III</b></p>
+  <p>DoB: 1962-07-26</p>
+  <p>Selected in: 1998 (at 36)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1998,#94D840FF,283,"Chamitoff, Gregory E.","  <p><b> Chamitoff, Gregory E.</b></p>
+  <p>DoB: 1962-08-06</p>
+  <p>Selected in: 1998 (at 36)</p>
+  <p>Flight Hours: NA</p>
+  <p># Flights: 3</p>",0
+1998,#94D840FF,284,"Robertson, Patricia Hilliard","  <p><b> Robertson, Patricia Hilliard</b></p>
+  <p>DoB: 1963-03-12</p>
+  <p>Selected in: 1998 (at 35)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+1998,#94D840FF,285,"Melvin, Leland D.","  <p><b> Melvin, Leland D.</b></p>
+  <p>DoB: 1964-02-15</p>
+  <p>Selected in: 1998 (at 34)</p>
+  <p>Flight Hours: 565</p>
+  <p># Flights: 2</p>",23.769728648009426
+1998,#94D840FF,286,"Patrick, Nicholas J. M.","  <p><b> Patrick, Nicholas J. M.</b></p>
+  <p>DoB: 1964-03-22</p>
+  <p>Selected in: 1998 (at 34)</p>
+  <p>Flight Hours: 638</p>
+  <p># Flights: 2</p>",25.25866188063018
+1998,#94D840FF,287,"Ham, Kenneth T.","  <p><b>Commander Ham, Kenneth T.</b></p>
+  <p>DoB: 1964-12-12</p>
+  <p>Selected in: 1998 (at 34)</p>
+  <p>Flight Hours: 612</p>
+  <p># Flights: 2</p>",24.73863375370596
+1998,#94D840FF,288,"Oefelein, William A.","  <p><b>Commander Oefelein, William A.</b></p>
+  <p>DoB: 1965-03-29</p>
+  <p>Selected in: 1998 (at 33)</p>
+  <p>Flight Hours: 308</p>
+  <p># Flights: 1</p>",17.549928774784245
+1998,#94D840FF,289,"Love, Stanley G.","  <p><b> Love, Stanley G.</b></p>
+  <p>DoB: 1965-06-08</p>
+  <p>Selected in: 1998 (at 33)</p>
+  <p>Flight Hours: 306</p>
+  <p># Flights: 1</p>",17.4928556845359
+1998,#94D840FF,290,"Williams, Sunita L.","  <p><b>Commander Williams, Sunita L.</b></p>
+  <p>DoB: 1965-09-19</p>
+  <p>Selected in: 1998 (at 33)</p>
+  <p>Flight Hours: 4680</p>
+  <p># Flights: 1</p>",68.41052550594829
+1998,#94D840FF,291,"Olivas, John D.","  <p><b> Olivas, John D.</b></p>
+  <p>DoB: 1966-05-25</p>
+  <p>Selected in: 1998 (at 32)</p>
+  <p>Flight Hours: 668</p>
+  <p># Flights: 2</p>",25.84569596664017
+1998,#94D840FF,292,"Reisman, Garrett E.","  <p><b> Reisman, Garrett E.</b></p>
+  <p>DoB: 1968-02-10</p>
+  <p>Selected in: 1998 (at 30)</p>
+  <p>Flight Hours: 2473</p>
+  <p># Flights: 2</p>",49.72926703662542
+1998,#94D840FF,293,"Caldwell, Tracy E.","  <p><b> Caldwell, Tracy E.</b></p>
+  <p>DoB: 1969-08-14</p>
+  <p>Selected in: 1998 (at 29)</p>
+  <p>Flight Hours: 4529</p>
+  <p># Flights: 2</p>",67.29784543356496
+2000,#B8DE29FF,294,"Barratt, Michael R.","  <p><b> Barratt, Michael R.</b></p>
+  <p>DoB: 1959-04-16</p>
+  <p>Selected in: 2000 (at 41)</p>
+  <p>Flight Hours: 5085</p>
+  <p># Flights: 2</p>",71.30918594402827
+2000,#B8DE29FF,295,"Ford, Kevin A.","  <p><b>Lieutenant Colonel Ford, Kevin A.</b></p>
+  <p>DoB: 1960-07-07</p>
+  <p>Selected in: 2000 (at 40)</p>
+  <p>Flight Hours: 333</p>
+  <p># Flights: 1</p>",18.24828759089466
+2000,#B8DE29FF,296,"Garan, Ronald J., Jr.","  <p><b>Lieutenant Colonel Garan, Ronald J., Jr.</b></p>
+  <p>DoB: 1961-10-20</p>
+  <p>Selected in: 2000 (at 39)</p>
+  <p>Flight Hours: 330</p>
+  <p># Flights: 0</p>",18.16590212458495
+2000,#B8DE29FF,297,"Good, Michael T.","  <p><b>Lieutenant Colonel Good, Michael T.</b></p>
+  <p>DoB: 1962-10-13</p>
+  <p>Selected in: 2000 (at 38)</p>
+  <p>Flight Hours: 600</p>
+  <p># Flights: 2</p>",24.49489742783178
+2000,#B8DE29FF,298,"Drew, Alvin B.","  <p><b>Lieutenant Colonel Drew, Alvin B.</b></p>
+  <p>DoB: 1962-11-05</p>
+  <p>Selected in: 2000 (at 38)</p>
+  <p>Flight Hours: 612</p>
+  <p># Flights: 2</p>",24.73863375370596
+2000,#B8DE29FF,299,"Stott, Nicole P.","  <p><b> Stott, Nicole P.</b></p>
+  <p>DoB: 1962-11-19</p>
+  <p>Selected in: 2000 (at 38)</p>
+  <p>Flight Hours: 2491</p>
+  <p># Flights: 2</p>",49.90991885387112
+2000,#B8DE29FF,300,"Wilmore, Barry E.","  <p><b>Commander Wilmore, Barry E.</b></p>
+  <p>DoB: 1962-12-29</p>
+  <p>Selected in: 2000 (at 38)</p>
+  <p>Flight Hours: 259</p>
+  <p># Flights: 1</p>",16.09347693943108
+2000,#B8DE29FF,301,"Kopra, Timothy L.","  <p><b>Lieutenant Colonel Kopra, Timothy L.</b></p>
+  <p>DoB: 1963-04-09</p>
+  <p>Selected in: 2000 (at 37)</p>
+  <p>Flight Hours: 1464</p>
+  <p># Flights: 1</p>",38.262252939417984
+2000,#B8DE29FF,302,"Bowen, Stephen G.","  <p><b>Commander Bowen, Stephen G.</b></p>
+  <p>DoB: 1964-02-13</p>
+  <p>Selected in: 2000 (at 36)</p>
+  <p>Flight Hours: 970</p>
+  <p># Flights: 3</p>",31.144823004794873
+2000,#B8DE29FF,303,"Boe, Eric A.","  <p><b>Lieutenant Colonel Boe, Eric A.</b></p>
+  <p>DoB: 1964-10-01</p>
+  <p>Selected in: 2000 (at 36)</p>
+  <p>Flight Hours: 672</p>
+  <p># Flights: 0</p>",25.92296279363144
+2000,#B8DE29FF,304,"Feustel, Andrew J.","  <p><b> Feustel, Andrew J.</b></p>
+  <p>DoB: 1965-08-25</p>
+  <p>Selected in: 2000 (at 35)</p>
+  <p>Flight Hours: 687</p>
+  <p># Flights: 2</p>",26.210684844162312
+2000,#B8DE29FF,305,"Hurley, Douglas G.","  <p><b>Lieutenant Colonel Hurley, Douglas G.</b></p>
+  <p>DoB: 1966-10-21</p>
+  <p>Selected in: 2000 (at 34)</p>
+  <p>Flight Hours: 376</p>
+  <p># Flights: 1</p>",19.390719429665317
+2000,#B8DE29FF,306,"Antonelli, Dominic A.","  <p><b>Lieutenant Commander Antonelli, Dominic A.</b></p>
+  <p>DoB: 1967-08-23</p>
+  <p>Selected in: 2000 (at 33)</p>
+  <p>Flight Hours: 579</p>
+  <p># Flights: 2</p>",24.06241883103193
+2000,#B8DE29FF,307,"Virts, Terry W., Jr.","  <p><b>2nd Lieutenant Virts, Terry W., Jr.</b></p>
+  <p>DoB: 1967-12-01</p>
+  <p>Selected in: 2000 (at 33)</p>
+  <p>Flight Hours: 330</p>
+  <p># Flights: 1</p>",18.16590212458495
+2000,#B8DE29FF,308,"Nyberg, Karen L.","  <p><b> Nyberg, Karen L.</b></p>
+  <p>DoB: 1969-10-07</p>
+  <p>Selected in: 2000 (at 31)</p>
+  <p>Flight Hours: 330</p>
+  <p># Flights: 1</p>",18.16590212458495
+2000,#B8DE29FF,309,"Behnken, Robert L.","  <p><b>Major Behnken, Robert L.</b></p>
+  <p>DoB: 1970-07-28</p>
+  <p>Selected in: 2000 (at 30)</p>
+  <p>Flight Hours: 708</p>
+  <p># Flights: 2</p>",26.60826939130014
+2000,#B8DE29FF,310,"McArthur, K. Megan","  <p><b> McArthur, K. Megan</b></p>
+  <p>DoB: 1971-08-30</p>
+  <p>Selected in: 2000 (at 29)</p>
+  <p>Flight Hours: 309</p>
+  <p># Flights: 1</p>",17.578395831246947
+2004,#DCE318FF,311,"Marshburn, Thomas H.","  <p><b>Major Marshburn, Thomas H.</b></p>
+  <p>DoB: 1960-08-29</p>
+  <p>Selected in: 2004 (at 44)</p>
+  <p>Flight Hours: 376</p>
+  <p># Flights: 1</p>",19.390719429665317
+2004,#DCE318FF,312,"Hernandez, Jose M.","  <p><b> Hernandez, Jose M.</b></p>
+  <p>DoB: 1962-08-07</p>
+  <p>Selected in: 2004 (at 42)</p>
+  <p>Flight Hours: 332</p>
+  <p># Flights: 1</p>",18.2208671582886
+2004,#DCE318FF,313,"Arnold, Richard R., II","  <p><b> Arnold, Richard R., II</b></p>
+  <p>DoB: 1963-11-26</p>
+  <p>Selected in: 2004 (at 41)</p>
+  <p>Flight Hours: 307</p>
+  <p># Flights: 0</p>",17.52141546793523
+2004,#DCE318FF,314,"Walker, Shannon","  <p><b> Walker, Shannon</b></p>
+  <p>DoB: 1965-06-04</p>
+  <p>Selected in: 2004 (at 39)</p>
+  <p>Flight Hours: NA</p>
+  <p># Flights: NA</p>",0
+2004,#DCE318FF,315,"Satcher, Robert L.","  <p><b> Satcher, Robert L.</b></p>
+  <p>DoB: 1965-09-22</p>
+  <p>Selected in: 2004 (at 39)</p>
+  <p>Flight Hours: 259</p>
+  <p># Flights: 1</p>",16.09347693943108
+2004,#DCE318FF,316,"Acaba, Joseph M.","  <p><b> Acaba, Joseph M.</b></p>
+  <p>DoB: 1967-05-17</p>
+  <p>Selected in: 2004 (at 37)</p>
+  <p>Flight Hours: 307</p>
+  <p># Flights: 1</p>",17.52141546793523
+2004,#DCE318FF,317,"Kimbrough, Robert S.","  <p><b>Major Kimbrough, Robert S.</b></p>
+  <p>DoB: 1967-06-04</p>
+  <p>Selected in: 2004 (at 37)</p>
+  <p>Flight Hours: 380</p>
+  <p># Flights: 1</p>",19.493588689617926
+2004,#DCE318FF,318,"Bresnik, Randolph J.","  <p><b>Major Bresnik, Randolph J.</b></p>
+  <p>DoB: 1967-09-11</p>
+  <p>Selected in: 2004 (at 37)</p>
+  <p>Flight Hours: 259</p>
+  <p># Flights: 1</p>",16.09347693943108
+2004,#DCE318FF,319,"Dutton, James P.","  <p><b>Major Dutton, James P.</b></p>
+  <p>DoB: 1968-11-20</p>
+  <p>Selected in: 2004 (at 36)</p>
+  <p>Flight Hours: 362</p>
+  <p># Flights: 0</p>",19.026297590440446
+2004,#DCE318FF,320,"Cassidy, Christopher J.","  <p><b>Lieutenant Commander Cassidy, Christopher J.</b></p>
+  <p>DoB: 1970-01-04</p>
+  <p>Selected in: 2004 (at 34)</p>
+  <p>Flight Hours: 376</p>
+  <p># Flights: 1</p>",19.390719429665317
+2004,#DCE318FF,321,"Metcalf-Lindenburger, Dorothy M.","  <p><b> Metcalf-Lindenburger, Dorothy M.</b></p>
+  <p>DoB: 1975-05-02</p>
+  <p>Selected in: 2004 (at 29)</p>
+  <p>Flight Hours: 362</p>
+  <p># Flights: 1</p>",19.026297590440446
+2009,#FDE725FF,322,"Tingle, Scott D.","  <p><b>Naval Officer Tingle, Scott D.</b></p>
+  <p>DoB: 1965-07-19</p>
+  <p>Selected in: 2009 (at 44)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+2009,#FDE725FF,323,"Vande Hei, Mark T.","  <p><b>2nd Lieutenant Vande Hei, Mark T.</b></p>
+  <p>DoB: 1966-11-10</p>
+  <p>Selected in: 2009 (at 43)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+2009,#FDE725FF,324,"Hopkins, Michael S.","  <p><b>2nd Lieutenant US Air Force Hopkins, Michael S.</b></p>
+  <p>DoB: 1968-12-28</p>
+  <p>Selected in: 2009 (at 41)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+2009,#FDE725FF,325,"Saint-Jacques, David","  <p><b> Saint-Jacques, David</b></p>
+  <p>DoB: 1970-01-06</p>
+  <p>Selected in: 2009 (at 39)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+2009,#FDE725FF,326,"Epps, Jeanette J.","  <p><b> Epps, Jeanette J.</b></p>
+  <p>DoB: 1970-11-02</p>
+  <p>Selected in: 2009 (at 39)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+2009,#FDE725FF,327,"Lindgren, Kjell N.","  <p><b>US Air Force Lindgren, Kjell N.</b></p>
+  <p>DoB: 1973-01-23</p>
+  <p>Selected in: 2009 (at 36)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+2009,#FDE725FF,328,"Fischer, Jack D.","  <p><b>US Air Force Fischer, Jack D.</b></p>
+  <p>DoB: 1974-01-23</p>
+  <p>Selected in: 2009 (at 35)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+2009,#FDE725FF,329,"Wiseman, Gregory R.","  <p><b> Wiseman, Gregory R.</b></p>
+  <p>DoB: 1975-11-11</p>
+  <p>Selected in: 2009 (at 34)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+2009,#FDE725FF,330,"Hansen, Jeremy","  <p><b> Hansen, Jeremy</b></p>
+  <p>DoB: 1976-01-27</p>
+  <p>Selected in: 2009 (at 33)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+2009,#FDE725FF,331,"Aunon, Serena M.","  <p><b> Aunon, Serena M.</b></p>
+  <p>DoB: 1976-04-09</p>
+  <p>Selected in: 2009 (at 33)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+2009,#FDE725FF,332,"Rubins, Kathleen","  <p><b> Rubins, Kathleen</b></p>
+  <p>DoB: 1978-10-14</p>
+  <p>Selected in: 2009 (at 31)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+2009,#FDE725FF,333,"Kanai, Norishige","  <p><b> Kanai, Norishige</b></p>
+  <p>DoB: NA</p>
+  <p>Selected in: 2009 (at 33)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+2009,#FDE725FF,334,"Onishi, Tayuka","  <p><b> Onishi, Tayuka</b></p>
+  <p>DoB: NA</p>
+  <p>Selected in: 2009 (at 34)</p>
+  <p>Flight Hours: 0</p>
+  <p># Flights: 0</p>",0
+2009,#FDE725FF,335,"Yui, Kimiya","  <p><b> Yui, Kimiya</b></p>
+  <p>DoB: NA</p>
+  <p>Selected in: 2009 (at 39)</p>
+  <p>Flight Hours: NA</p>
+  <p># Flights: 0</p>",0

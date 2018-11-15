@@ -16,7 +16,7 @@ us <- read_csv("data/NASA astronauts - US ASTRONAUTS.csv") %>%
   rename(
     name = Astronaut,
     selection = `Selection Year`,
-    n_flghts = `# Flights`,
+    n_flights = `# Flights`,
     flight_hours = `Cumulative hours of space flight time`,
     group = Group,
     missions = `Missions flown`,
@@ -85,7 +85,13 @@ nodes <- us %>%
   transmute(
     id = id,
     label = name,
-    title = glue::glue("<p><b>{rank} {name}</b></p><p>Flight Hours: {flight_hours}</p><p></p>"),
+    title = glue::glue("
+      <p><b>{rank} {name}</b></p>
+      <p>DoB: {dob}</p>
+      <p>Selected in: {selection} (at {selection - yob})</p>
+      <p>Flight Hours: {flight_hours}</p>
+      <p># Flights: {n_flights}</p>
+    "),
     #group = cut(selection, breaks = seq(1959, 2009, 10), include.lowest = T, dig.lab = 5),
     group = selection,
     value = sqrt(if_else(is.na(flight_hours), 0L, flight_hours))
